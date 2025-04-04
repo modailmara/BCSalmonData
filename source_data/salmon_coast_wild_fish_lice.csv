@@ -1,0 +1,6 @@
+event_id,fish_id,length,weight,height,fish_species,lep_cop,lep_chal,lep_motile,lep_unknown,cal_cop,cal_chal,cal_motile,cal_unknown,unknown_cop,unknown_chal,unknown_motile,unknown_unknown
+scfs_1.0,scfs_1,50.0,,,Pink Salmon,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+scfs_1.0,scfs_2,50.0,,,Pink Salmon,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0
+scfs_1.0,scfs_3,50.0,,,Pink Salmon,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0
+scfs_1.0,scfs_4,53.0,,,Pink Salmon,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+scfs_1.0,scfs_5,54.0,,,Pink Salmon,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0
