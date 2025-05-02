@@ -1,0 +1,811 @@
+event_id,sampledate,region,dfozone,sample_site,latitude,longitude,source
+hakai_DE100N2,2015-05-12 00:00:00+00:00,,,Hurtado Point,,,Hakai Institute
+hakai_DE100N1,2015-05-12 00:00:00+00:00,,,Hurtado Point,,,Hakai Institute
+hakai_DE100N3,2015-05-12 00:00:00+00:00,Discovery Islands,3_2,Hurtado Point,49.9613,-124.747,Hakai Institute
+hakai_DE101N1,2015-05-13 00:00:00+00:00,Discovery Islands,3_2,Kinghorn Island,50.07902,-124.8509,Hakai Institute
+hakai_DE102N1,2015-05-14 00:00:00+00:00,Discovery Islands,3_2,Francisco Point,49.99932,-125.1395,Hakai Institute
+hakai_DE103N1,2015-05-15 00:00:00+00:00,Discovery Islands,3_2,Lewis Channel,50.16142,-124.8842,Hakai Institute
+hakai_DE104N1,2015-05-15 00:00:00+00:00,Discovery Islands,3_2,Kinghorn Island,50.08007,-124.8511,Hakai Institute
+hakai_DE105N1,2015-05-15 00:00:00+00:00,Discovery Islands,3_2,Sutil Narrows,50.11842,-125.07512,Hakai Institute
+hakai_DE106N1,2015-05-16 00:00:00+00:00,Discovery Islands,3_2,Gowlland Harbour,50.08005,-125.2468,Hakai Institute
+hakai_DE107N1,2015-05-16 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.16412,-125.1602,Hakai Institute
+hakai_DE108N1,2015-05-17 00:00:00+00:00,Discovery Islands,3_2,Kinghorn Island,50.08123,-124.8549,Hakai Institute
+hakai_DE109N1,2015-05-18 00:00:00+00:00,Discovery Islands,3_2,Sutil Narrows,50.11405,-125.0787,Hakai Institute
+hakai_DE110N1,2015-05-18 00:00:00+00:00,Discovery Islands,3_2,Lewis Channel,50.1659,-124.8888,Hakai Institute
+hakai_DE111N1,2015-05-19 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.34273,-125.0841,Hakai Institute
+hakai_DE112N1,2015-05-20 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30787,-125.3293,Hakai Institute
+hakai_DE114N1,2015-05-21 00:00:00+00:00,Discovery Islands,3_2,Sutil Narrows,50.13705,-125.1175,Hakai Institute
+hakai_DE115N1,2015-05-21 00:00:00+00:00,,,Hoskyn Channel,,,Hakai Institute
+hakai_DE115N2,2015-05-21 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.18217,-125.1493,Hakai Institute
+hakai_DE116N1,2015-05-23 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.31962,-125.0395,Hakai Institute
+hakai_DE117N1,2015-05-23 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.44365,-125.279,Hakai Institute
+hakai_DE120N1,2015-05-24 00:00:00+00:00,,,Turn Island,,,Hakai Institute
+hakai_DE120N2,2015-05-24 00:00:00+00:00,Discovery Islands,3_2,Turn Island,50.34655,-125.45602,Hakai Institute
+hakai_DE121N1,2015-05-24 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30723,-125.33345,Hakai Institute
+hakai_DE124N1,2015-05-25 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.3153,-125.05186,Hakai Institute
+hakai_DE125N1,2015-05-25 00:00:00+00:00,,,Lewis Channel,,,Hakai Institute
+hakai_DE128N3,2015-05-26 00:00:00+00:00,,,Hall Point,,,Hakai Institute
+hakai_DE128N2,2015-05-26 00:00:00+00:00,,,Hall Point,,,Hakai Institute
+hakai_DE128N1,2015-05-26 00:00:00+00:00,,,Hall Point,,,Hakai Institute
+hakai_DE128N4,2015-05-26 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.44466,-125.2804,Hakai Institute
+hakai_DE130N1,2015-05-26 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30795,-125.32452,Hakai Institute
+hakai_DE137N1,2015-05-28 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.44941,-125.33027,Hakai Institute
+hakai_DE138N1,2015-05-28 00:00:00+00:00,,,Turn Island,,,Hakai Institute
+hakai_DE139N1,2015-05-28 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30884,-125.32275,Hakai Institute
+hakai_DE140N1,2015-05-30 00:00:00+00:00,Discovery Islands,3_2,Gowlland Harbour,50.10015,-125.27265,Hakai Institute
+hakai_DE143N1,2015-05-31 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.31763,-125.04942,Hakai Institute
+hakai_DE145N1,2015-05-31 00:00:00+00:00,Discovery Islands,3_2,Kinghorn Island,50.06119,-124.87916,Hakai Institute
+hakai_DE146N1,2015-05-31 00:00:00+00:00,,,Hurtado Point,,,Hakai Institute
+hakai_DE148N1,2015-05-31 00:00:00+00:00,,,Sutil Narrows,,,Hakai Institute
+hakai_DE149N1,2015-06-01 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.44527,-125.2774,Hakai Institute
+hakai_DE150N2,2015-06-01 00:00:00+00:00,,,Turn Island,,,Hakai Institute
+hakai_DE150N1,2015-06-01 00:00:00+00:00,,,Turn Island,,,Hakai Institute
+hakai_DE150N3,2015-06-01 00:00:00+00:00,Discovery Islands,3_2,Turn Island,50.34762,-125.45358,Hakai Institute
+hakai_DE151N1,2015-06-01 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30492,-125.33058,Hakai Institute
+hakai_DE152N2,2015-06-03 00:00:00+00:00,,,Hall Point,,,Hakai Institute
+hakai_DE152N1,2015-06-03 00:00:00+00:00,,,Hall Point,,,Hakai Institute
+hakai_DE152N3,2015-06-03 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.44217,-125.27406,Hakai Institute
+hakai_DE153N1,2015-06-03 00:00:00+00:00,,,Turn Island,,,Hakai Institute
+hakai_DE153N2,2015-06-03 00:00:00+00:00,Discovery Islands,3_2,Turn Island,50.34851,-125.44831,Hakai Institute
+hakai_DE154N1,2015-06-03 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30759,-125.32969,Hakai Institute
+hakai_DE155N1,2015-06-04 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.31954,-125.04247,Hakai Institute
+hakai_DE158N1,2015-06-04 00:00:00+00:00,,,Gowlland Harbour,,,Hakai Institute
+hakai_DE158N2,2015-06-04 00:00:00+00:00,Discovery Islands,3_2,Gowlland Harbour,50.07966,-125.24845,Hakai Institute
+hakai_DE160N1,2015-06-05 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.44342,-125.27904,Hakai Institute
+hakai_DE162N1,2015-06-05 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30771,-125.32864,Hakai Institute
+hakai_DE163N1,2015-06-05 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.19112,-125.14202,Hakai Institute
+hakai_DE164N1,2015-06-06 00:00:00+00:00,,,Calm Channel,,,Hakai Institute
+hakai_DE168N1,2015-06-07 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30812,-125.3269,Hakai Institute
+hakai_DE169N1,2015-06-07 00:00:00+00:00,,,Hoskyn Channel,,,Hakai Institute
+hakai_DE169N2,2015-06-07 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.1915,-125.14292,Hakai Institute
+hakai_DE170N1,2015-06-09 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE170N2,2015-06-09 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30734,-125.33514,Hakai Institute
+hakai_DE171N1,2015-06-09 00:00:00+00:00,,,Calm Channel,,,Hakai Institute
+hakai_DE171N2,2015-06-09 00:00:00+00:00,,,Calm Channel,,,Hakai Institute
+hakai_DE173N1,2015-06-09 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.19077,-125.14249,Hakai Institute
+hakai_DE174N1,2015-06-11 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30806,-125.32972,Hakai Institute
+hakai_DE175N1,2015-06-11 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.19017,-125.14437,Hakai Institute
+hakai_DE179N1,2015-06-13 00:00:00+00:00,,,Lewis Channel,,,Hakai Institute
+hakai_DE182N1,2015-06-13 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.19051,-125.1444,Hakai Institute
+hakai_DE183N1,2015-06-14 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE183N2,2015-06-14 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30767,-125.33023,Hakai Institute
+hakai_DE184N1,2015-06-14 00:00:00+00:00,Discovery Islands,3_2,Turn Island,50.34741,-125.45333,Hakai Institute
+hakai_DE185N1,2015-06-14 00:00:00+00:00,,,Hall Point,,,Hakai Institute
+hakai_DE185N2,2015-06-14 00:00:00+00:00,,,Hall Point,,,Hakai Institute
+hakai_DE186N1,2015-06-15 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE189N1,2015-06-15 00:00:00+00:00,,,Hoskyn Channel,,,Hakai Institute
+hakai_DE190N1,2015-06-16 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE192N2,2015-06-16 00:00:00+00:00,,,Turn Island,,,Hakai Institute
+hakai_DE192N1,2015-06-16 00:00:00+00:00,,,Turn Island,,,Hakai Institute
+hakai_DE192N3,2015-06-16 00:00:00+00:00,Discovery Islands,3_2,Turn Island,50.34866,-125.44482,Hakai Institute
+hakai_DE193N1,2015-06-16 00:00:00+00:00,,,Hoskyn Channel,,,Hakai Institute
+hakai_DE194N1,2015-06-17 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.32119,-125.03856,Hakai Institute
+hakai_DE195N1,2015-06-17 00:00:00+00:00,,,Lewis Channel,,,Hakai Institute
+hakai_DE198N1,2015-06-18 00:00:00+00:00,,,Turn Island,,,Hakai Institute
+hakai_DE198N2,2015-06-18 00:00:00+00:00,Discovery Islands,3_2,Turn Island,50.34829,-125.45001,Hakai Institute
+hakai_DE199N1,2015-06-18 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30819,-125.32694,Hakai Institute
+hakai_DE201N1,2015-06-19 00:00:00+00:00,Discovery Islands,3_2,Gowlland Harbour,50.09809,-125.27142,Hakai Institute
+hakai_DE205N1,2015-06-20 00:00:00+00:00,,,Turn Island,,,Hakai Institute
+hakai_DE205N2,2015-06-20 00:00:00+00:00,Discovery Islands,3_2,Turn Island,50.34758,-125.4553,Hakai Institute
+hakai_DE206N1,2015-06-20 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30597,-125.33588,Hakai Institute
+hakai_DE207N1,2015-06-21 00:00:00+00:00,,,Hurtado Point,,,Hakai Institute
+hakai_DE212N1,2015-06-22 00:00:00+00:00,,,Hall Point,,,Hakai Institute
+hakai_DE212N2,2015-06-22 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.44949,-125.32427,Hakai Institute
+hakai_DE213N1,2015-06-22 00:00:00+00:00,,,Turn Island,,,Hakai Institute
+hakai_DE214N1,2015-06-22 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.0,-125.0,Hakai Institute
+hakai_DE216N1,2015-06-23 00:00:00+00:00,,,Francisco Point,,,Hakai Institute
+hakai_DE217N1,2015-06-23 00:00:00+00:00,,,Gowlland Harbour,,,Hakai Institute
+hakai_DE217N2,2015-06-23 00:00:00+00:00,Discovery Islands,3_2,Gowlland Harbour,50.10264,-125.27585,Hakai Institute
+hakai_DE218N1,2015-06-24 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.44045,-125.27069,Hakai Institute
+hakai_DE219N1,2015-06-24 00:00:00+00:00,Discovery Islands,3_2,Turn Island,50.34969,-125.44451,Hakai Institute
+hakai_DE220N1,2015-06-24 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30698,-125.3259,Hakai Institute
+hakai_DE221N1,2015-06-27 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30702,-125.33509,Hakai Institute
+hakai_DE224N1,2015-06-29 00:00:00+00:00,,,Hall Point,,,Hakai Institute
+hakai_DE225N1,2015-06-29 00:00:00+00:00,Discovery Islands,3_2,Turn Island,50.34844,-125.44666,Hakai Institute
+hakai_DE226N1,2015-06-29 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE226N2,2015-06-29 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30764,-125.33348,Hakai Institute
+hakai_DE231N1,2015-07-02 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE231N2,2015-07-02 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30377,-125.33768,Hakai Institute
+hakai_DE234N1,2015-07-05 00:00:00+00:00,Discovery Islands,3_2,Turn Island,50.34874,-125.44617,Hakai Institute
+hakai_DE236N1,2015-07-06 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30641,-125.31584,Hakai Institute
+hakai_DE237N1,2015-07-06 00:00:00+00:00,Discovery Islands,3_2,Turn Island,50.34825,-125.44895,Hakai Institute
+hakai_DE238N1,2015-07-07 00:00:00+00:00,Discovery Islands,3_2,Turn Island,50.34797,-125.45584,Hakai Institute
+hakai_DE239N1,2015-07-07 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE239N2,2015-07-07 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3079,-125.32955,Hakai Institute
+hakai_DE240N1,2015-07-14 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30717,-125.33303,Hakai Institute
+hakai_DE241N1,2015-07-14 00:00:00+00:00,Discovery Islands,3_2,Turn Island,50.34811,-125.454,Hakai Institute
+hakai_DE245N2,2016-05-09 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.318037,-125.049415,Hakai Institute
+hakai_DE245N1,2016-05-09 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.318037,-125.049415,Hakai Institute
+hakai_DE255N2,2016-05-13 00:00:00+00:00,Discovery Islands,3_2,Twin Islands,50.023957,-124.914675,Hakai Institute
+hakai_DE255N1,2016-05-13 00:00:00+00:00,Discovery Islands,3_2,Twin Islands,50.023957,-124.914675,Hakai Institute
+hakai_DE258N1,2016-05-13 00:00:00+00:00,Discovery Islands,3_2,Francisco Point,49.9865,-125.162953,Hakai Institute
+hakai_DE259N1,2016-05-14 00:00:00+00:00,Discovery Islands,3_2,Surge Narrows,50.237386,-125.12002,Hakai Institute
+hakai_DE260N1,2016-05-14 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.32113,-125.040588,Hakai Institute
+hakai_DE261N1,2016-05-14 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.19304,-125.136573,Hakai Institute
+hakai_DE262N1,2016-05-15 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.287179,-125.33416,Hakai Institute
+hakai_DE263N1,2016-05-15 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.243454,-125.398108,Hakai Institute
+hakai_DE264N2,2016-05-15 00:00:00+00:00,Discovery Islands,3_2,Discovery East,50.208559,-125.355064,Hakai Institute
+hakai_DE264N1,2016-05-15 00:00:00+00:00,Discovery Islands,3_2,Discovery East,50.208559,-125.355064,Hakai Institute
+hakai_DE267N1,2016-05-16 00:00:00+00:00,Discovery Islands,3_2,Hemming Bay,50.393263,-125.373514,Hakai Institute
+hakai_DE269N2,2016-05-18 00:00:00+00:00,Discovery Islands,3_2,Twin Islands,50.020465,-124.917743,Hakai Institute
+hakai_DE269N1,2016-05-18 00:00:00+00:00,Discovery Islands,3_2,Twin Islands,50.020465,-124.917743,Hakai Institute
+hakai_DE272N1,2016-05-18 00:00:00+00:00,Discovery Islands,3_2,Francisco Point,49.990151,-125.160818,Hakai Institute
+hakai_DE272N2,2016-05-18 00:00:00+00:00,Discovery Islands,3_2,Francisco Point,49.990151,-125.160818,Hakai Institute
+hakai_DE274N1,2016-05-19 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.319977,-125.042165,Hakai Institute
+hakai_DE275N1,2016-05-19 00:00:00+00:00,Discovery Islands,3_2,Surge Narrows,50.241361,-125.119113,Hakai Institute
+hakai_DE276N1,2016-05-19 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.191099,-125.138578,Hakai Institute
+hakai_DE277N1,2016-05-23 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30908,-125.325703,Hakai Institute
+hakai_DE278N1,2016-05-23 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.274701,-125.377445,Hakai Institute
+hakai_DE279N2,2016-05-23 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.224106,-125.395004,Hakai Institute
+hakai_DE279N1,2016-05-23 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.224106,-125.395004,Hakai Institute
+hakai_DE282N1,2016-05-24 00:00:00+00:00,Discovery Islands,3_2,Hemming Bay,50.392115,-125.374782,Hakai Institute
+hakai_DE284N2,2016-05-26 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.3175,-125.050736,Hakai Institute
+hakai_DE284N1,2016-05-26 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.3175,-125.050736,Hakai Institute
+hakai_DE287N1,2016-05-26 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.190737,-125.143169,Hakai Institute
+hakai_DE288N1,2016-05-27 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.243773,-125.397476,Hakai Institute
+hakai_DE290N2,2016-05-27 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.304166,-125.333511,Hakai Institute
+hakai_DE290N1,2016-05-27 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.304166,-125.333511,Hakai Institute
+hakai_DE292N1,2016-06-01 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308769,-125.326765,Hakai Institute
+hakai_DE293N1,2016-06-01 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.274425,-125.379303,Hakai Institute
+hakai_DE294N1,2016-06-01 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.24565,-125.396035,Hakai Institute
+hakai_DE295N1,2016-06-02 00:00:00+00:00,Discovery Islands,3_2,Turn Island,50.347739,-125.45463,Hakai Institute
+hakai_DE296N1,2016-06-02 00:00:00+00:00,Discovery Islands,3_2,Hemming Bay,50.386065,-125.376067,Hakai Institute
+hakai_DE297N1,2016-06-02 00:00:00+00:00,Discovery Islands,3_2,Godwin Point,50.462513,-125.368231,Hakai Institute
+hakai_DE299N1,2016-06-03 00:00:00+00:00,Discovery Islands,3_2,Surge Narrows,50.239953,-125.126574,Hakai Institute
+hakai_DE300N1,2016-06-03 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.190887,-125.143416,Hakai Institute
+hakai_DE301N1,2016-06-07 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30436,-125.332956,Hakai Institute
+hakai_DE302N1,2016-06-07 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.242671,-125.398265,Hakai Institute
+hakai_DE303N1,2016-06-08 00:00:00+00:00,Discovery Islands,3_2,Turn Island,50.347862,-125.455554,Hakai Institute
+hakai_DE305N2,2016-06-08 00:00:00+00:00,Discovery Islands,3_2,Godwin Point,50.461604,-125.368943,Hakai Institute
+hakai_DE305N1,2016-06-08 00:00:00+00:00,Discovery Islands,3_2,Godwin Point,50.461604,-125.368943,Hakai Institute
+hakai_DE307N1,2016-06-09 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.31794,-125.050807,Hakai Institute
+hakai_DE308N1,2016-06-09 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.190683,-125.143138,Hakai Institute
+hakai_DE310N2,2016-06-11 00:00:00+00:00,Discovery Islands,3_2,Twin Islands,50.021998,-124.916211,Hakai Institute
+hakai_DE310N1,2016-06-11 00:00:00+00:00,Discovery Islands,3_2,Twin Islands,50.021998,-124.916211,Hakai Institute
+hakai_DE315N1,2016-06-13 00:00:00+00:00,Discovery Islands,3_2,Hemming Bay,50.391225,-125.365332,Hakai Institute
+hakai_DE317N3,2016-06-14 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.305971,-125.334369,Hakai Institute
+hakai_DE317N2,2016-06-14 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.305971,-125.334369,Hakai Institute
+hakai_DE317N1,2016-06-14 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.305971,-125.334369,Hakai Institute
+hakai_DE320N1,2016-06-14 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.235322,-125.39888,Hakai Institute
+hakai_DE321N1,2016-06-14 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.275083,-125.381356,Hakai Institute
+hakai_DE322N1,2016-06-14 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307203,-125.332605,Hakai Institute
+hakai_DE323N2,2016-06-16 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.319224,-125.044219,Hakai Institute
+hakai_DE323N1,2016-06-16 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.319224,-125.044219,Hakai Institute
+hakai_DE325N2,2016-06-16 00:00:00+00:00,Discovery Islands,3_2,Surge Narrows,50.238067,-125.1179,Hakai Institute
+hakai_DE325N1,2016-06-16 00:00:00+00:00,Discovery Islands,3_2,Surge Narrows,50.238067,-125.1179,Hakai Institute
+hakai_DE327N2,2016-06-16 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.191383,-125.143884,Hakai Institute
+hakai_DE327N1,2016-06-16 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.191383,-125.143884,Hakai Institute
+hakai_DE329N2,2016-06-21 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30661,-125.335266,Hakai Institute
+hakai_DE329N1,2016-06-21 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30661,-125.335266,Hakai Institute
+hakai_DE331N1,2016-06-21 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.236643,-125.39734,Hakai Institute
+hakai_DE335N2,2016-06-22 00:00:00+00:00,Discovery Islands,3_2,Hemming Bay,50.382455,-125.373533,Hakai Institute
+hakai_DE335N1,2016-06-22 00:00:00+00:00,Discovery Islands,3_2,Hemming Bay,50.382455,-125.373533,Hakai Institute
+hakai_DE337N1,2016-06-22 00:00:00+00:00,Discovery Islands,3_2,Knox Bay,50.38992,-125.613237,Hakai Institute
+hakai_DE338N1,2016-06-22 00:00:00+00:00,Discovery Islands,3_2,Godwin Point,50.458706,-125.365059,Hakai Institute
+hakai_DE341N1,2016-06-23 00:00:00+00:00,Discovery Islands,3_2,Surge Narrows,50.24043,-125.119941,Hakai Institute
+hakai_DE342N1,2016-06-24 00:00:00+00:00,Discovery Islands,3_2,Twin Islands,50.022465,-124.916635,Hakai Institute
+hakai_DE344N1,2016-06-24 00:00:00+00:00,Discovery Islands,3_2,Francisco Point,49.997783,-125.15945,Hakai Institute
+hakai_DE350N2,2016-06-29 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307068,-125.329361,Hakai Institute
+hakai_DE350N1,2016-06-29 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307068,-125.329361,Hakai Institute
+hakai_DE352N1,2016-06-30 00:00:00+00:00,Discovery Islands,3_2,Hemming Bay,50.378699,-125.373927,Hakai Institute
+hakai_DE353N1,2016-06-30 00:00:00+00:00,Discovery Islands,3_2,Turn Island,50.348081,-125.455923,Hakai Institute
+hakai_DE355N1,2016-06-30 00:00:00+00:00,Discovery Islands,3_2,Godwin Point,50.462531,-125.359047,Hakai Institute
+hakai_DE357N2,2016-07-05 00:00:00+00:00,Discovery Islands,3_2,Surge Narrows,50.240733,-125.12055,Hakai Institute
+hakai_DE357N1,2016-07-05 00:00:00+00:00,Discovery Islands,3_2,Surge Narrows,50.240733,-125.12055,Hakai Institute
+hakai_DE360N1,2016-07-06 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.275178,-125.378066,Hakai Institute
+hakai_DE361N2,2016-07-06 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307066,-125.322977,Hakai Institute
+hakai_DE361N1,2016-07-06 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.304502,-125.336639,Hakai Institute
+hakai_DE364N1,2017-05-23 00:00:00+00:00,Discovery Islands,3_2,Deepwater Bay,50.18049002,-125.330849,Hakai Institute
+hakai_DE365N1,2017-05-25 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.309067,-125.3257,Hakai Institute
+hakai_DE366N1,2017-05-26 00:00:00+00:00,Discovery Islands,3_2,Penn Islands,50.17999062,-125.0189455,Hakai Institute
+hakai_DE367N1,2017-05-29 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.309278,-125.320699,Hakai Institute
+hakai_DE368N1,2017-05-31 00:00:00+00:00,Discovery Islands,3_2,Raza Island,50.301803,-125.03049,Hakai Institute
+hakai_DE436N1,2017-06-01 00:00:00+00:00,,,Calm Channel,,,Hakai Institute
+hakai_DE369N1,2017-06-01 00:00:00+00:00,Discovery Islands,3_2,Raza Island,50.305482,-125.024803,Hakai Institute
+hakai_DE370N1,2017-06-05 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.274875,-125.376937,Hakai Institute
+hakai_DE371N2,2017-06-07 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.306252,-125.336051,Hakai Institute
+hakai_DE371N1,2017-06-07 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307761,-125.325384,Hakai Institute
+hakai_DE372N2,2017-06-12 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307811,-125.329505,Hakai Institute
+hakai_DE372N1,2017-06-12 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3041,-125.33841,Hakai Institute
+hakai_DE376N2,2017-06-13 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.274783,-125.377569,Hakai Institute
+hakai_DE376N1,2017-06-13 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.274596,-125.377527,Hakai Institute
+hakai_DE454AN5,2017-06-14 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE454AN4,2017-06-14 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE454AN3,2017-06-14 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE454AN2,2017-06-14 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE454AN1,2017-06-14 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE454BN8,2017-06-15 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE454BN7,2017-06-15 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE454BN6,2017-06-15 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE377N1,2017-06-19 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.236254,-125.398402,Hakai Institute
+hakai_DE382N1,2017-06-19 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE378N1,2017-06-20 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.304561,-125.337253,Hakai Institute
+hakai_DE383N1,2017-06-21 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE373N2,2017-06-26 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.297362,-125.339472,Hakai Institute
+hakai_DE373N1,2017-06-26 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.29725,-125.338485,Hakai Institute
+hakai_DE384N1,2017-06-26 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE374N1,2017-06-28 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.434701,-125.26607,Hakai Institute
+hakai_DE457N3,2017-06-29 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.297141,-125.340397,Hakai Institute
+hakai_DE457N2,2017-06-29 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.297141,-125.340397,Hakai Institute
+hakai_DE457N1,2017-06-29 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.297141,-125.340397,Hakai Institute
+hakai_DE458N1,2017-06-29 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30969,-125.321237,Hakai Institute
+hakai_DE459N2,2017-06-29 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30955,-125.306633,Hakai Institute
+hakai_DE459N1,2017-06-29 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30955,-125.306633,Hakai Institute
+hakai_DE460N1,2017-06-29 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.29885,-125.337833,Hakai Institute
+hakai_DE461N1,2017-06-30 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.306507,-125.330603,Hakai Institute
+hakai_DE462N2,2017-06-30 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308201,-125.327355,Hakai Institute
+hakai_DE462N1,2017-06-30 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308201,-125.327355,Hakai Institute
+hakai_DE463N3,2017-06-30 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.299822,-125.3415,Hakai Institute
+hakai_DE463N2,2017-06-30 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308112,-125.326899,Hakai Institute
+hakai_DE463N1,2017-06-30 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308112,-125.326899,Hakai Institute
+hakai_DE464N2,2017-06-30 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.300978,-125.341211,Hakai Institute
+hakai_DE464N1,2017-06-30 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.300978,-125.341211,Hakai Institute
+hakai_DE379N1,2017-07-04 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.237837,-125.396111,Hakai Institute
+hakai_DE375N1,2017-07-04 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.27485,-125.377707,Hakai Institute
+hakai_DE380N1,2017-07-05 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307981,-125.320206,Hakai Institute
+hakai_DE381N1,2017-07-10 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.305134,-125.337052,Hakai Institute
+hakai_DE455AN4,2017-07-12 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE455AN3,2017-07-12 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE455AN2,2017-07-12 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE455AN1,2017-07-12 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE455BN8,2017-07-13 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE455BN7,2017-07-13 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE455BN6,2017-07-13 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE455BN5,2017-07-13 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_JE100N1,2015-05-20 00:00:00+00:00,,,Cracroft Point,,,Hakai Institute
+hakai_JE101N1,2015-05-20 00:00:00+00:00,,,Stimpson Point,50.50535,-126.24163,Hakai Institute
+hakai_JE102N1,2015-05-21 00:00:00+00:00,,,Blenkinsop Bay,,,Hakai Institute
+hakai_JE102N2,2015-05-21 00:00:00+00:00,,,Blenkinsop Bay,50.47479,-126.03259,Hakai Institute
+hakai_JE103N1,2015-05-21 00:00:00+00:00,,,Forward Bay,,,Hakai Institute
+hakai_JE103N2,2015-05-21 00:00:00+00:00,,,Forward Bay,,,Hakai Institute
+hakai_JE104N1,2015-05-22 00:00:00+00:00,,,South Mouth,50.45614,-126.11933,Hakai Institute
+hakai_JE105N1,2015-05-22 00:00:00+00:00,,,Naka Creek,,,Hakai Institute
+hakai_JE105N2,2015-05-22 00:00:00+00:00,,,Naka Creek,50.48078,-126.41037,Hakai Institute
+hakai_JE106N3,2015-05-22 00:00:00+00:00,,,Forward Bay,,,Hakai Institute
+hakai_JE106N2,2015-05-22 00:00:00+00:00,,,Forward Bay,,,Hakai Institute
+hakai_JE106N1,2015-05-22 00:00:00+00:00,,,Forward Bay,,,Hakai Institute
+hakai_JE106N4,2015-05-22 00:00:00+00:00,,,Forward Bay,50.52222,-126.39167,Hakai Institute
+hakai_JE107N1,2015-05-23 00:00:00+00:00,,,Cracroft Point,,,Hakai Institute
+hakai_JE107N2,2015-05-23 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54648,-126.67096,Hakai Institute
+hakai_JE108N1,2015-05-23 00:00:00+00:00,,,Bauza Cove,,,Hakai Institute
+hakai_JE108N2,2015-05-23 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54039,-126.78096,Hakai Institute
+hakai_JE109N2,2015-05-23 00:00:00+00:00,,,Hanson South,,,Hakai Institute
+hakai_JE109N1,2015-05-23 00:00:00+00:00,,,Hanson South,,,Hakai Institute
+hakai_JE109N3,2015-05-23 00:00:00+00:00,Broughton Archipelago,3_3,Hanson South,50.55787,-126.73532,Hakai Institute
+hakai_JE110N1,2015-05-24 00:00:00+00:00,,,Swanson Island,,,Hakai Institute
+hakai_JE110N2,2015-05-24 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60101,-126.70394,Hakai Institute
+hakai_JE112N1,2015-05-24 00:00:00+00:00,,,Blenkinsop Bay,50.47696,-126.0273,Hakai Institute
+hakai_JE113N1,2015-05-25 00:00:00+00:00,,,Stimpson Point,50.49853,-126.21348,Hakai Institute
+hakai_JE114N1,2015-05-25 00:00:00+00:00,,,Forward Bay,50.52363,-126.39046,Hakai Institute
+hakai_JE115N1,2015-05-25 00:00:00+00:00,,,Naka Creek,50.48103,-126.41291,Hakai Institute
+hakai_JE116N1,2015-05-26 00:00:00+00:00,,,South Mouth,50.45622,-126.11838,Hakai Institute
+hakai_JE117N1,2015-05-26 00:00:00+00:00,,,Cracroft Point,,,Hakai Institute
+hakai_JE117N2,2015-05-26 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54672,-126.67256,Hakai Institute
+hakai_JE118N1,2015-05-26 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.53989,-126.78256,Hakai Institute
+hakai_JE119N1,2015-05-27 00:00:00+00:00,Broughton Archipelago,3_3,Hanson South,50.55951,-126.75326,Hakai Institute
+hakai_JE122N1,2015-05-27 00:00:00+00:00,,,Bauza Cove,,,Hakai Institute
+hakai_JE122N2,2015-05-27 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.53957,-126.7781,Hakai Institute
+hakai_JE123N2,2015-05-28 00:00:00+00:00,,,Hanson North,,,Hakai Institute
+hakai_JE123N1,2015-05-28 00:00:00+00:00,,,Hanson North,,,Hakai Institute
+hakai_JE123N3,2015-05-28 00:00:00+00:00,Broughton Archipelago,3_3,Hanson North,50.57078,-126.70066,Hakai Institute
+hakai_JE126N1,2015-05-29 00:00:00+00:00,,,Blenkinsop Bay,50.4838,-126.01069,Hakai Institute
+hakai_JE127N1,2015-05-29 00:00:00+00:00,,,Stimpson Point,,,Hakai Institute
+hakai_JE128N1,2015-05-30 00:00:00+00:00,,,Stimpson Point,,,Hakai Institute
+hakai_JE128N2,2015-05-30 00:00:00+00:00,,,Stimpson Point,50.50733,-126.24336,Hakai Institute
+hakai_JE129N2,2015-05-30 00:00:00+00:00,,,South Mouth,,,Hakai Institute
+hakai_JE129N1,2015-05-30 00:00:00+00:00,,,South Mouth,,,Hakai Institute
+hakai_JE129N3,2015-05-30 00:00:00+00:00,,,South Mouth,50.45679,-126.16458,Hakai Institute
+hakai_JE131N1,2015-05-30 00:00:00+00:00,,,Naka Creek,50.48405,-126.3987,Hakai Institute
+hakai_JE132N1,2015-05-31 00:00:00+00:00,,,Forward Bay,50.52152,-126.40028,Hakai Institute
+hakai_JE133N1,2015-05-31 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54605,-126.66218,Hakai Institute
+hakai_JE134N1,2015-05-31 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.53808,-126.77494,Hakai Institute
+hakai_JE136N1,2015-06-01 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60051,-126.70319,Hakai Institute
+hakai_JE137N1,2015-06-01 00:00:00+00:00,Broughton Archipelago,3_3,Hanson North,50.57871,-126.72129,Hakai Institute
+hakai_JE138N1,2015-06-01 00:00:00+00:00,Broughton Archipelago,3_3,Hanson South,50.55853,-126.73145,Hakai Institute
+hakai_JE139N1,2015-06-02 00:00:00+00:00,,,Stimpson Point,50.50763,-126.24218,Hakai Institute
+hakai_JE140N1,2015-06-02 00:00:00+00:00,,,South Mouth,50.45649,-126.16619,Hakai Institute
+hakai_JE141N1,2015-06-02 00:00:00+00:00,,,Blenkinsop Bay,,,Hakai Institute
+hakai_JE142N1,2015-06-03 00:00:00+00:00,,,Blenkinsop Bay,50.48189,-126.01128,Hakai Institute
+hakai_JE143N1,2015-06-03 00:00:00+00:00,,,Naka Creek,50.48072,-126.40915,Hakai Institute
+hakai_JE145N1,2015-06-03 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.53944,-126.78254,Hakai Institute
+hakai_JE146N1,2015-06-04 00:00:00+00:00,,,Forward Bay,50.52232,-126.39556,Hakai Institute
+hakai_JE147N1,2015-06-04 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54216,-126.63511,Hakai Institute
+hakai_JE148N2,2015-06-04 00:00:00+00:00,,,Swanson Island,,,Hakai Institute
+hakai_JE148N1,2015-06-04 00:00:00+00:00,,,Swanson Island,,,Hakai Institute
+hakai_JE148N3,2015-06-04 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.5956,-126.69022,Hakai Institute
+hakai_JE149N1,2015-06-05 00:00:00+00:00,Broughton Archipelago,3_3,Hanson South,50.55855,-126.73248,Hakai Institute
+hakai_JE150N1,2015-06-05 00:00:00+00:00,Broughton Archipelago,3_3,Hanson North,50.56784,-126.69728,Hakai Institute
+hakai_JE152N1,2015-06-06 00:00:00+00:00,,,South Mouth,50.45987,-126.16961,Hakai Institute
+hakai_JE153N1,2015-06-06 00:00:00+00:00,,,Blenkinsop Bay,,,Hakai Institute
+hakai_JE154N1,2015-06-07 00:00:00+00:00,,,Blenkinsop Bay,50.47794,-126.02803,Hakai Institute
+hakai_JE155N1,2015-06-07 00:00:00+00:00,,,Stimpson Point,50.49983,-126.20581,Hakai Institute
+hakai_JE157N1,2015-06-07 00:00:00+00:00,,,Naka Creek,,,Hakai Institute
+hakai_JE157N2,2015-06-07 00:00:00+00:00,,,Naka Creek,50.47923,-126.41485,Hakai Institute
+hakai_JE159N1,2015-06-07 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.539,-126.7781,Hakai Institute
+hakai_JE160N1,2015-06-08 00:00:00+00:00,,,Forward Bay,50.52411,-126.39107,Hakai Institute
+hakai_JE161N1,2015-06-08 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54418,-126.63202,Hakai Institute
+hakai_JE162N1,2015-06-08 00:00:00+00:00,Broughton Archipelago,3_3,Hanson North,50.57687,-126.72184,Hakai Institute
+hakai_JE163N1,2015-06-09 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.59537,-126.69062,Hakai Institute
+hakai_JE165N1,2015-06-11 00:00:00+00:00,,,Stimpson Point,50.50008,-126.20937,Hakai Institute
+hakai_JE166N1,2015-06-11 00:00:00+00:00,,,South Mouth,50.45951,-126.16958,Hakai Institute
+hakai_JE168N1,2015-06-12 00:00:00+00:00,,,Blenkinsop Bay,50.47959,-126.02629,Hakai Institute
+hakai_JE171N1,2015-06-13 00:00:00+00:00,,,Bauza Cove,,,Hakai Institute
+hakai_JE171N2,2015-06-13 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.53988,-126.78291,Hakai Institute
+hakai_JE172N3,2015-06-14 00:00:00+00:00,,,Blenkinsop Bay,,,Hakai Institute
+hakai_JE172N2,2015-06-14 00:00:00+00:00,,,Blenkinsop Bay,,,Hakai Institute
+hakai_JE172N1,2015-06-14 00:00:00+00:00,,,Blenkinsop Bay,,,Hakai Institute
+hakai_JE172N4,2015-06-14 00:00:00+00:00,,,Blenkinsop Bay,50.47679,-126.02843,Hakai Institute
+hakai_JE173N1,2015-06-14 00:00:00+00:00,,,South Mouth,50.45698,-126.16944,Hakai Institute
+hakai_JE174N1,2015-06-14 00:00:00+00:00,,,Stimpson Point,50.49881,-126.21349,Hakai Institute
+hakai_JE175N1,2015-06-15 00:00:00+00:00,,,Forward Bay,50.52618,-126.38632,Hakai Institute
+hakai_JE176N1,2015-06-15 00:00:00+00:00,,,Naka Creek,,,Hakai Institute
+hakai_JE176N2,2015-06-15 00:00:00+00:00,,,Naka Creek,50.48035,-126.41265,Hakai Institute
+hakai_JE177N1,2015-06-15 00:00:00+00:00,,,Cracroft Point,,,Hakai Institute
+hakai_JE177N2,2015-06-15 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54719,-126.67487,Hakai Institute
+hakai_JE178N1,2015-06-15 00:00:00+00:00,Broughton Archipelago,3_3,Hanson South,50.55792,-126.73617,Hakai Institute
+hakai_JE179N1,2015-06-16 00:00:00+00:00,Broughton Archipelago,3_3,Hanson North,50.58185,-126.71983,Hakai Institute
+hakai_JE180N1,2015-06-16 00:00:00+00:00,,,Swanson Island,,,Hakai Institute
+hakai_JE180N2,2015-06-16 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.59549,-126.69036,Hakai Institute
+hakai_JE181N1,2015-06-16 00:00:00+00:00,,,Bauza Cove,,,Hakai Institute
+hakai_JE181N2,2015-06-16 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54327,-126.81252,Hakai Institute
+hakai_JE182N1,2015-06-17 00:00:00+00:00,,,Forward Bay,50.52491,-126.38617,Hakai Institute
+hakai_JE183N1,2015-06-17 00:00:00+00:00,,,Naka Creek,50.47943,-126.41631,Hakai Institute
+hakai_JE184N1,2015-06-17 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.5463,-126.66727,Hakai Institute
+hakai_JE185N1,2015-06-18 00:00:00+00:00,,,Blenkinsop Bay,50.47909,-126.02584,Hakai Institute
+hakai_JE186N1,2015-06-18 00:00:00+00:00,,,South Mouth,50.45747,-126.16879,Hakai Institute
+hakai_JE187N1,2015-06-18 00:00:00+00:00,,,Stimpson Point,50.49921,-126.20961,Hakai Institute
+hakai_JE188N1,2015-06-18 00:00:00+00:00,Broughton Archipelago,3_3,Hanson North,50.58086,-126.72272,Hakai Institute
+hakai_JE189N1,2015-06-19 00:00:00+00:00,,,Bauza Cove,,,Hakai Institute
+hakai_JE189N2,2015-06-19 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54362,-126.81951,Hakai Institute
+hakai_JE190N1,2015-06-19 00:00:00+00:00,Broughton Archipelago,3_3,Hanson South,50.55814,-126.73386,Hakai Institute
+hakai_JE191N1,2015-06-19 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60263,-126.70188,Hakai Institute
+hakai_JE192N1,2015-06-20 00:00:00+00:00,,,Forward Bay,50.5194,-126.40831,Hakai Institute
+hakai_JE193N1,2015-06-20 00:00:00+00:00,,,Naka Creek,50.48001,-126.41469,Hakai Institute
+hakai_JE195N1,2015-06-20 00:00:00+00:00,,,South Mouth,50.45804,-126.16997,Hakai Institute
+hakai_JE196N1,2015-06-21 00:00:00+00:00,,,Blenkinsop Bay,50.4763,-126.02838,Hakai Institute
+hakai_JE197N1,2015-06-21 00:00:00+00:00,,,Stimpson Point,50.49608,-126.21645,Hakai Institute
+hakai_JE198N1,2015-06-21 00:00:00+00:00,,,Hanson South,,,Hakai Institute
+hakai_JE198N2,2015-06-21 00:00:00+00:00,Broughton Archipelago,3_3,Hanson South,50.55821,-126.73327,Hakai Institute
+hakai_JE199N1,2015-06-23 00:00:00+00:00,,,Cracroft Point,,,Hakai Institute
+hakai_JE199N2,2015-06-23 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54774,-126.67774,Hakai Institute
+hakai_JE200N1,2015-06-23 00:00:00+00:00,Broughton Archipelago,3_3,Hanson North,50.58209,-126.71978,Hakai Institute
+hakai_JE201N2,2015-06-23 00:00:00+00:00,,,Swanson Island,,,Hakai Institute
+hakai_JE201N1,2015-06-23 00:00:00+00:00,,,Swanson Island,,,Hakai Institute
+hakai_JE201N3,2015-06-23 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60237,-126.70219,Hakai Institute
+hakai_JE202N1,2015-06-23 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54414,-126.81843,Hakai Institute
+hakai_JE203N1,2015-06-24 00:00:00+00:00,,,Blenkinsop Bay,50.47705,-126.02871,Hakai Institute
+hakai_JE204N1,2015-06-24 00:00:00+00:00,,,South Mouth,,,Hakai Institute
+hakai_JE204N2,2015-06-24 00:00:00+00:00,,,South Mouth,50.45524,-126.11718,Hakai Institute
+hakai_JE205N1,2015-06-24 00:00:00+00:00,,,Stimpson Point,50.49837,-126.21404,Hakai Institute
+hakai_JE206N1,2015-06-24 00:00:00+00:00,,,Naka Creek,,,Hakai Institute
+hakai_JE206N2,2015-06-24 00:00:00+00:00,,,Naka Creek,50.4787,-126.41567,Hakai Institute
+hakai_JE207N1,2015-06-27 00:00:00+00:00,,,Hanson South,,,Hakai Institute
+hakai_JE207N2,2015-06-27 00:00:00+00:00,Broughton Archipelago,3_3,Hanson South,50.55961,-126.7542,Hakai Institute
+hakai_JE208N1,2015-06-27 00:00:00+00:00,,,Hanson North,,,Hakai Institute
+hakai_JE208N2,2015-06-27 00:00:00+00:00,Broughton Archipelago,3_3,Hanson North,50.58165,-126.71952,Hakai Institute
+hakai_JE209N1,2015-06-27 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.5438,-126.81988,Hakai Institute
+hakai_JE210N1,2015-06-28 00:00:00+00:00,,,Swanson Island,,,Hakai Institute
+hakai_JE210N2,2015-06-28 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60255,-126.70201,Hakai Institute
+hakai_JE211N1,2015-06-28 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54277,-126.64149,Hakai Institute
+hakai_JE212N1,2015-06-29 00:00:00+00:00,,,Naka Creek,50.47895,-126.41667,Hakai Institute
+hakai_JE213N1,2015-06-29 00:00:00+00:00,,,South Mouth,50.45942,-126.16916,Hakai Institute
+hakai_JE216N1,2015-07-01 00:00:00+00:00,Broughton Archipelago,3_3,Hanson South,50.55809,-126.73246,Hakai Institute
+hakai_JE217N1,2015-07-01 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54703,-126.67197,Hakai Institute
+hakai_JE218N1,2015-07-01 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54329,-126.8169,Hakai Institute
+hakai_JE219N1,2015-07-02 00:00:00+00:00,,,Hanson North,,,Hakai Institute
+hakai_JE220N1,2015-07-02 00:00:00+00:00,,,Swanson Island,,,Hakai Institute
+hakai_JE221N1,2015-07-07 00:00:00+00:00,,,Swanson Island,,,Hakai Institute
+hakai_JE224N1,2015-07-07 00:00:00+00:00,,,Hanson South,,,Hakai Institute
+hakai_JE225N1,2015-07-07 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.5412,-126.77998,Hakai Institute
+hakai_JE227N1,2015-07-10 00:00:00+00:00,,,Hanson North,,,Hakai Institute
+hakai_JE228N1,2015-07-10 00:00:00+00:00,,,Cracroft Point,,,Hakai Institute
+hakai_JE229N1,2015-07-10 00:00:00+00:00,,,Hanson South,,,Hakai Institute
+hakai_JE229N2,2015-07-10 00:00:00+00:00,,,Hanson South,,,Hakai Institute
+hakai_JE231N1,2016-05-20 00:00:00+00:00,,,Stimpson Point,50.506881,-126.247378,Hakai Institute
+hakai_JE232N1,2016-05-20 00:00:00+00:00,,,South Mouth,50.458043,-126.152637,Hakai Institute
+hakai_JE233N1,2016-05-21 00:00:00+00:00,,,Blenkinsop Bay,50.473969,-126.247378,Hakai Institute
+hakai_JE234N1,2016-05-21 00:00:00+00:00,,,South Mouth,,,Hakai Institute
+hakai_JE234N2,2016-05-21 00:00:00+00:00,,,South Mouth,50.458043,-126.152637,Hakai Institute
+hakai_JE235N2,2016-05-21 00:00:00+00:00,,,Forward Bay,,,Hakai Institute
+hakai_JE235N1,2016-05-21 00:00:00+00:00,,,Forward Bay,,,Hakai Institute
+hakai_JE235N3,2016-05-21 00:00:00+00:00,,,Forward Bay,50.526493,-126.38718,Hakai Institute
+hakai_JE236N1,2016-05-21 00:00:00+00:00,,,Naka Creek,50.480359,-126.412275,Hakai Institute
+hakai_JE237N1,2016-05-22 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.543296,-126.816816,Hakai Institute
+hakai_JE238N1,2016-05-22 00:00:00+00:00,Broughton Archipelago,3_3,Hanson South,50.558361,-126.732241,Hakai Institute
+hakai_JE239N1,2016-05-22 00:00:00+00:00,,,Cracroft Point,,,Hakai Institute
+hakai_JE239N2,2016-05-22 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54692,-126.67193,Hakai Institute
+hakai_JE240N1,2016-05-22 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.601718,-126.701857,Hakai Institute
+hakai_JE243N1,2016-05-26 00:00:00+00:00,,,Forward Bay,,,Hakai Institute
+hakai_JE243N2,2016-05-26 00:00:00+00:00,,,Forward Bay,50.522967,-126.377383,Hakai Institute
+hakai_JE244N1,2016-05-26 00:00:00+00:00,,,Stimpson Point,50.495266,-126.211667,Hakai Institute
+hakai_JE245N1,2016-05-27 00:00:00+00:00,,,Blenkinsop Bay,,,Hakai Institute
+hakai_JE245N2,2016-05-27 00:00:00+00:00,,,Blenkinsop Bay,50.477037,-126.028592,Hakai Institute
+hakai_JE246N1,2016-05-27 00:00:00+00:00,,,South Mouth,50.4559,-126.1191,Hakai Institute
+hakai_JE248N1,2016-05-27 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.543432,-126.8134,Hakai Institute
+hakai_JE249N1,2016-05-27 00:00:00+00:00,Broughton Archipelago,3_3,Hanson North,50.576696,-126.721158,Hakai Institute
+hakai_JE250N1,2016-05-28 00:00:00+00:00,,,Swanson Island,,,Hakai Institute
+hakai_JE250N2,2016-05-28 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60125,-126.704457,Hakai Institute
+hakai_JE251N1,2016-05-28 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.545897,-126.668909,Hakai Institute
+hakai_JE252N1,2016-06-01 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60125,-126.704457,Hakai Institute
+hakai_JE253N1,2016-06-01 00:00:00+00:00,Broughton Archipelago,3_3,Hanson North,50.576696,-126.721158,Hakai Institute
+hakai_JE254N1,2016-06-02 00:00:00+00:00,,,Hanson South,50.477038,-126.028566,Hakai Institute
+hakai_JE255N1,2016-06-02 00:00:00+00:00,,,Bauza Cove,,,Hakai Institute
+hakai_JE255N2,2016-06-02 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.543432,-126.8134,Hakai Institute
+hakai_JE256N1,2016-06-02 00:00:00+00:00,Broughton Archipelago,3_3,Naka Creek,50.540979,-126.78085,Hakai Institute
+hakai_JE257N1,2016-06-03 00:00:00+00:00,,,Stimpson Point,50.507301,-126.24325,Hakai Institute
+hakai_JE258N1,2016-06-03 00:00:00+00:00,,,South Mouth,50.459012,-126.1695,Hakai Institute
+hakai_JE259N2,2016-06-04 00:00:00+00:00,,,Blenkinsop Bay,,,Hakai Institute
+hakai_JE259N1,2016-06-04 00:00:00+00:00,,,Blenkinsop Bay,,,Hakai Institute
+hakai_JE259N3,2016-06-04 00:00:00+00:00,,,Blenkinsop Bay,50.458983,-126.169594,Hakai Institute
+hakai_JE260N1,2016-06-04 00:00:00+00:00,,,Forward Bay,50.525287,-126.390347,Hakai Institute
+hakai_JE261N1,2016-06-04 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.543029,-126.632233,Hakai Institute
+hakai_JE262N1,2016-06-09 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.544941,-126.816489,Hakai Institute
+hakai_JE263N1,2016-06-09 00:00:00+00:00,Broughton Archipelago,3_3,Hanson South,50.55543,-126.724521,Hakai Institute
+hakai_JE264N1,2016-06-09 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.602327,-126.701507,Hakai Institute
+hakai_JE265N1,2016-06-10 00:00:00+00:00,Broughton Archipelago,3_3,Hanson North,50.5771,-126.721684,Hakai Institute
+hakai_JE266N1,2016-06-10 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.547475,-126.676942,Hakai Institute
+hakai_JE267N1,2016-06-10 00:00:00+00:00,,,Forward Bay,50.51821,-126.406079,Hakai Institute
+hakai_JE268N1,2016-06-10 00:00:00+00:00,,,Naka Creek,50.480214,-126.4142,Hakai Institute
+hakai_JE269N1,2016-06-11 00:00:00+00:00,,,Blenkinsop Bay,50.476173,-126.029443,Hakai Institute
+hakai_JE270N1,2016-06-11 00:00:00+00:00,,,South Mouth,50.456683,-126.153895,Hakai Institute
+hakai_JE271N1,2016-06-11 00:00:00+00:00,,,Stimpson Point,50.500269,-126.209365,Hakai Institute
+hakai_JE272N1,2016-06-17 00:00:00+00:00,,,Swanson Island,,,Hakai Institute
+hakai_JE272N2,2016-06-17 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.602051,-126.704553,Hakai Institute
+hakai_JE273N1,2016-06-17 00:00:00+00:00,Broughton Archipelago,3_3,Hanson North,50.579213,-126.71432,Hakai Institute
+hakai_JE274N1,2016-06-18 00:00:00+00:00,,,Bauza Cove,,,Hakai Institute
+hakai_JE274N2,2016-06-18 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.579393,-126.714162,Hakai Institute
+hakai_JE276N1,2016-06-18 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.546326,-126.669166,Hakai Institute
+hakai_JE278N3,2016-06-19 00:00:00+00:00,,,Naka Creek,50.483183,-126.403858,Hakai Institute
+hakai_JE278N2,2016-06-19 00:00:00+00:00,,,Naka Creek,50.483183,-126.403858,Hakai Institute
+hakai_JE278N1,2016-06-19 00:00:00+00:00,,,Naka Creek,50.483183,-126.403858,Hakai Institute
+hakai_JE281N1,2016-06-19 00:00:00+00:00,,,Stimpson Point,50.506302,-126.24142,Hakai Institute
+hakai_JE282N1,2016-06-19 00:00:00+00:00,,,Blenkinsop Bay,50.506323,-126.241304,Hakai Institute
+hakai_JE283N1,2016-06-20 00:00:00+00:00,,,South Mouth,50.455728,-126.116461,Hakai Institute
+hakai_JE284N1,2016-06-23 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54401,-126.81461,Hakai Institute
+hakai_JE285N1,2016-06-23 00:00:00+00:00,Broughton Archipelago,3_3,Hanson South,50.55803,-126.73463,Hakai Institute
+hakai_JE286N1,2016-06-23 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.55803,-126.73463,Hakai Institute
+hakai_JE288N1,2016-06-24 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.6017,-126.70318,Hakai Institute
+hakai_JE290N1,2016-06-24 00:00:00+00:00,,,Naka Creek,,,Hakai Institute
+hakai_JE290N2,2016-06-24 00:00:00+00:00,,,Naka Creek,50.4806,-126.40961,Hakai Institute
+hakai_JE291N1,2016-06-25 00:00:00+00:00,,,Blenkinsop Bay,50.47508,-126.03392,Hakai Institute
+hakai_JE292N1,2016-06-25 00:00:00+00:00,,,South Mouth,50.45733,-126.16553,Hakai Institute
+hakai_JE293N1,2016-06-25 00:00:00+00:00,,,Stimpson Point,,,Hakai Institute
+hakai_JE293N2,2016-06-25 00:00:00+00:00,,,Stimpson Point,50.49874,-126.21257,Hakai Institute
+hakai_JE294N1,2016-07-04 00:00:00+00:00,,,Swanson Island,,,Hakai Institute
+hakai_JE294N2,2016-07-04 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.601529,-126.703784,Hakai Institute
+hakai_JE295N1,2016-07-04 00:00:00+00:00,Broughton Archipelago,3_3,Hanson North,50.580247,-126.721745,Hakai Institute
+hakai_JE298N1,2016-07-04 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.543818,-126.794456,Hakai Institute
+hakai_JE300N1,2016-07-05 00:00:00+00:00,,,Naka Creek,50.47779,-126.429726,Hakai Institute
+hakai_JE302N1,2016-07-05 00:00:00+00:00,,,South Mouth,50.456886,-126.162647,Hakai Institute
+hakai_JE303N1,2016-07-06 00:00:00+00:00,,,Blenkinsop Bay,50.457049,-126.162651,Hakai Institute
+hakai_JE304N2,2017-06-06 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54522,-126.65949,Hakai Institute
+hakai_JE305N1,2017-06-06 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.6022,-126.70567,Hakai Institute
+hakai_JE306N2,2017-06-13 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54393,-126.8131,Hakai Institute
+hakai_JE306N1,2017-06-13 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.5438,-126.80927,Hakai Institute
+hakai_JE307N1,2017-06-14 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54411,-126.65398,Hakai Institute
+hakai_JE308N2,2017-06-20 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60224,-126.70529,Hakai Institute
+hakai_JE308N1,2017-06-20 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60233,-126.70309,Hakai Institute
+hakai_JE309N2,2017-06-21 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54628,-126.81474,Hakai Institute
+hakai_JE309N1,2017-06-21 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54487,-126.81252,Hakai Institute
+hakai_JE310N2,2017-06-27 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54582,-126.81618,Hakai Institute
+hakai_JE310N1,2017-06-27 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54574,-126.81679,Hakai Institute
+hakai_JE311N4,2017-06-28 00:00:00+00:00,,,Swanson Island,,,Hakai Institute
+hakai_JE311N3,2017-06-28 00:00:00+00:00,,,Swanson Island,,,Hakai Institute
+hakai_JE311N2,2017-06-28 00:00:00+00:00,,,Swanson Island,,,Hakai Institute
+hakai_JE311N1,2017-06-28 00:00:00+00:00,,,Swanson Island,,,Hakai Institute
+hakai_JE311N5,2017-06-28 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60278,-126.70284,Hakai Institute
+hakai_JE314N2,2017-07-06 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54454,-126.81227,Hakai Institute
+hakai_JE314N1,2017-07-06 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54372,-126.81769,Hakai Institute
+hakai_JE312N1,2017-07-07 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54505,-126.65729,Hakai Institute
+hakai_JE313N1,2017-07-07 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60144,-126.70046,Hakai Institute
+hakai_JE316N1,2017-07-12 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.546,-126.81509,Hakai Institute
+hakai_JE315N1,2017-07-12 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54533,-126.65855,Hakai Institute
+hakai_DE505N2,2018-05-11 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.3154,-125.053,Hakai Institute
+hakai_DE505N1,2018-05-11 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.316217,-125.052033,Hakai Institute
+hakai_DE506N1,2018-05-14 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.18167,-125.1523,Hakai Institute
+hakai_DE510N1,2018-05-15 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.309206,-125.323291,Hakai Institute
+hakai_JE411N1,2018-05-17 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54526,-126.8154,Hakai Institute
+hakai_JE412N1,2018-05-17 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.53912,-126.77893,Hakai Institute
+hakai_DE516N2,2018-05-17 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.316117,-125.052167,Hakai Institute
+hakai_DE516N1,2018-05-17 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.316983,-125.049967,Hakai Institute
+hakai_JE401N1,2018-05-21 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.5429,-126.81615,Hakai Institute
+hakai_JE402N1,2018-05-21 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.53927,-126.78078,Hakai Institute
+hakai_DE517N2,2018-05-22 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.31006,-125.317963,Hakai Institute
+hakai_DE517N1,2018-05-22 00:00:00+00:00,,,Okisollo Channel,,,Hakai Institute
+hakai_DE531N1,2018-05-23 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.271333,-125.368,Hakai Institute
+hakai_DE512N1,2018-05-24 00:00:00+00:00,Discovery Islands,3_2,Calm Channel,50.316807,-125.050581,Hakai Institute
+hakai_DE513N2,2018-05-28 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30705,-125.332333,Hakai Institute
+hakai_DE513N1,2018-05-28 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30785,-125.328333,Hakai Institute
+hakai_DE519N1,2018-05-29 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.27045,-125.3656,Hakai Institute
+hakai_DE514N1,2018-05-30 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.440686,-125.294356,Hakai Institute
+hakai_JE417N1,2018-05-31 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54342,-126.81474,Hakai Institute
+hakai_JE418N1,2018-06-03 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54561,-126.66166,Hakai Institute
+hakai_DE520N3,2018-06-04 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.306917,-125.3288,Hakai Institute
+hakai_DE520N2,2018-06-04 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307767,-125.32905,Hakai Institute
+hakai_DE520N1,2018-06-04 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.305683,-125.336917,Hakai Institute
+hakai_DE521N1,2018-06-05 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.267967,-125.358733,Hakai Institute
+hakai_JE414N1,2018-06-07 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54387,-126.80852,Hakai Institute
+hakai_DE522N1,2018-06-07 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.443485,-125.28775,Hakai Institute
+hakai_DE523N3,2018-06-11 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30345,-125.33885,Hakai Institute
+hakai_DE523N2,2018-06-11 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307183,-125.335133,Hakai Institute
+hakai_DE523N1,2018-06-11 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3099,-125.319633,Hakai Institute
+hakai_JE415N2,2018-06-12 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60197,-126.70232,Hakai Institute
+hakai_JE415N1,2018-06-12 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60207,-126.70187,Hakai Institute
+hakai_DE524N4,2018-06-12 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.26805,-125.358833,Hakai Institute
+hakai_DE524N3,2018-06-12 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.270667,-125.365017,Hakai Institute
+hakai_DE524N2,2018-06-12 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.268817,-125.359533,Hakai Institute
+hakai_DE524N1,2018-06-12 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.27095,-125.365483,Hakai Institute
+hakai_DE525N1,2018-06-12 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.233733,-125.395717,Hakai Institute
+hakai_DE526N1,2018-06-13 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.442483,-125.273467,Hakai Institute
+hakai_JE419N1,2018-06-14 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54416,-126.80831,Hakai Institute
+hakai_DE527N3,2018-06-18 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308417,-125.3309,Hakai Institute
+hakai_DE527N2,2018-06-18 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.303167,-125.3387,Hakai Institute
+hakai_DE527N1,2018-06-18 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30915,-125.32305,Hakai Institute
+hakai_DE528N1,2018-06-18 00:00:00+00:00,Discovery Islands,3_2,Chonat Bay,50.29,-125.317433,Hakai Institute
+hakai_DE529N2,2018-06-19 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.2693,-125.360467,Hakai Institute
+hakai_DE529N1,2018-06-19 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.268067,-125.35845,Hakai Institute
+hakai_DE530N2,2018-06-19 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.239,-125.401233,Hakai Institute
+hakai_DE530N1,2018-06-19 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.2351,-125.397083,Hakai Institute
+hakai_JE420N1,2018-06-20 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60216,-126.70131,Hakai Institute
+hakai_DE532N3,2018-06-20 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.435,-125.263767,Hakai Institute
+hakai_DE532N2,2018-06-20 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.434567,-125.261567,Hakai Institute
+hakai_DE532N1,2018-06-20 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.434567,-125.261567,Hakai Institute
+hakai_JE421N2,2018-06-21 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54314,-126.81464,Hakai Institute
+hakai_JE421N1,2018-06-21 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54372,-126.81902,Hakai Institute
+hakai_JE422N2,2018-06-23 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54267,-126.65017,Hakai Institute
+hakai_JE422N1,2018-06-23 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54477,-126.65859,Hakai Institute
+hakai_DE533N2,2018-06-25 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.29995,-125.341167,Hakai Institute
+hakai_DE533N1,2018-06-25 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.305567,-125.337083,Hakai Institute
+hakai_DE534N2,2018-06-26 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.26815,-125.360967,Hakai Institute
+hakai_DE534N1,2018-06-26 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.267517,-125.35945,Hakai Institute
+hakai_DE535N1,2018-06-27 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.438867,-125.267883,Hakai Institute
+hakai_DE536N1,2018-06-27 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.298867,-125.337917,Hakai Institute
+hakai_JE423N2,2018-06-28 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54343,-126.81577,Hakai Institute
+hakai_JE423N1,2018-06-28 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54327,-126.81796,Hakai Institute
+hakai_JE425N1,2018-06-29 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60151,-126.70567,Hakai Institute
+hakai_DE537N1,2018-07-03 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3092,-125.325,Hakai Institute
+hakai_JE426N1,2018-07-03 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54591,-126.6658,Hakai Institute
+hakai_DE538N2,2018-07-04 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.268783,-125.358283,Hakai Institute
+hakai_DE538N1,2018-07-04 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.268383,-125.357783,Hakai Institute
+hakai_JE427N2,2018-07-04 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54412,-126.81375,Hakai Institute
+hakai_JE427N1,2018-07-04 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54367,-126.81252,Hakai Institute
+hakai_DE539N2,2018-07-05 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.435883,-125.264217,Hakai Institute
+hakai_DE539N1,2018-07-05 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.437217,-125.265083,Hakai Institute
+hakai_JE428N1,2018-07-09 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54549,-126.6642,Hakai Institute
+hakai_JE429N1,2018-07-09 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54308,-126.81553,Hakai Institute
+hakai_DE540N1,2018-07-17 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.309033,-125.323467,Hakai Institute
+hakai_DE541N1,2018-08-01 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30655,-125.33625,Hakai Institute
+hakai_DE546N2,2018-08-08 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.300047,-125.340866,Hakai Institute
+hakai_DE546N1,2018-08-08 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307068,-125.331276,Hakai Institute
+hakai_DE542N2,2018-08-15 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308983,-125.325167,Hakai Institute
+hakai_DE542N1,2018-08-15 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30865,-125.3255,Hakai Institute
+hakai_DE543N1,2018-08-22 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30945,-125.324067,Hakai Institute
+hakai_DE601N1,2019-05-10 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3056,-125.33005,Hakai Institute
+hakai_DE602N1,2019-05-13 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3081,-125.32895,Hakai Institute
+hakai_JE501N1,2019-05-17 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54511,-126.65926,Hakai Institute
+hakai_JE502N1,2019-05-17 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60154,-126.70369,Hakai Institute
+hakai_JE503N1,2019-05-20 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.53936,-126.78008,Hakai Institute
+hakai_JE503N2,2019-05-20 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.55895,-126.77763,Hakai Institute
+hakai_JE503N3,2019-05-20 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.53912,-126.77922,Hakai Institute
+hakai_JE504N1,2019-05-20 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54301,-126.81448,Hakai Institute
+hakai_JE504N2,2019-05-20 00:00:00+00:00,Broughton Archipelago,3_3,Bauza Cove,50.54359,-126.81538,Hakai Institute
+hakai_DE602N2,2019-05-13 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3081,-125.32895,Hakai Institute
+hakai_DE602N3,2019-05-13 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3081,-125.32895,Hakai Institute
+hakai_DE605N1,2019-05-15 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.24247,-125.3975,Hakai Institute
+hakai_DE607N1,2019-05-21 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.31025,-125.320467,Hakai Institute
+hakai_DE608N1,2019-05-22 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.2688,-125.357533,Hakai Institute
+hakai_DE609N1,2019-05-23 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.442683,-125.277333,Hakai Institute
+hakai_JE505N1,2019-05-23 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54622,-126.66857,Hakai Institute
+hakai_JE506N1,2019-05-26 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.54025,-126.78289,Hakai Institute
+hakai_DE610N1,2019-05-25 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.305683,-125.3377,Hakai Institute
+hakai_DE612N1,2019-05-26 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.2692,-125.360867,Hakai Institute
+hakai_DE613N1,2019-05-26 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.241902,-125.397842,Hakai Institute
+hakai_DE613N2,2019-05-26 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.24135,-125.398056,Hakai Institute
+hakai_DE613N3,2019-05-26 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.2453,-125.395267,Hakai Institute
+hakai_DE615N1,2019-05-27 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.442917,-125.27725,Hakai Institute
+hakai_DE615N2,2019-05-27 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.440383,-125.2715,Hakai Institute
+hakai_DE616N1,2019-05-27 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.45645,-125.2677,Hakai Institute
+hakai_DE614N1,2019-05-28 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30545,-125.33815,Hakai Institute
+hakai_DE614N2,2019-05-28 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.305267,-125.33815,Hakai Institute
+hakai_DE614N3,2019-05-28 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.304033,-125.3394,Hakai Institute
+hakai_DE614N4,2019-05-28 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30215,-125.339583,Hakai Institute
+hakai_JE508N1,2019-05-29 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60181,-126.70432,Hakai Institute
+hakai_JE509N1,2019-05-30 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.53974,-126.78125,Hakai Institute
+hakai_JE509N2,2019-05-30 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.54062,-126.78237,Hakai Institute
+hakai_DE617N1,2019-05-29 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.275033,-125.378217,Hakai Institute
+hakai_JE510N1,2019-05-31 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54637,-126.66978,Hakai Institute
+hakai_JE510N2,2019-05-31 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54552,-126.66193,Hakai Institute
+hakai_JE510N3,2019-05-31 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54615,-126.6701,Hakai Institute
+hakai_DE618N1,2019-05-30 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.442933,-125.278717,Hakai Institute
+hakai_DE619N1,2019-05-30 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.456733,-125.268833,Hakai Institute
+hakai_DE619N2,2019-05-30 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.45715,-125.268117,Hakai Institute
+hakai_DE620N1,2019-06-01 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.271417,-125.366183,Hakai Institute
+hakai_DE626N1,2019-06-05 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3055,-125.3351,Hakai Institute
+hakai_DE621N1,2019-06-02 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308217,-125.327317,Hakai Institute
+hakai_DE621N2,2019-06-02 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308533,-125.3281,Hakai Institute
+hakai_JE511N1,2019-06-05 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.53986,-126.77921,Hakai Institute
+hakai_JE513N1,2019-06-05 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.601398,-126.702403,Hakai Institute
+hakai_JE513N2,2019-06-05 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.601457,-126.702725,Hakai Institute
+hakai_JE514N1,2019-06-06 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.54037,-126.78188,Hakai Institute
+hakai_JE515N1,2019-06-06 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.6018,-126.70077,Hakai Institute
+hakai_JE516N1,2019-06-09 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.5447,-126.66235,Hakai Institute
+hakai_JE517N1,2019-06-10 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.54026,-126.78209,Hakai Institute
+hakai_DE623N1,2019-06-03 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.457167,-125.262433,Hakai Institute
+hakai_DE624N1,2019-06-04 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.274683,-125.377683,Hakai Institute
+hakai_DE627N1,2019-06-06 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.44365,-125.27435,Hakai Institute
+hakai_DE628N1,2019-06-10 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.306067,-125.330583,Hakai Institute
+hakai_DE628N2,2019-06-10 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.304683,-125.331683,Hakai Institute
+hakai_DE628N3,2019-06-10 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.303733,-125.3323,Hakai Institute
+hakai_JE518N1,2019-06-11 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54608,-126.66772,Hakai Institute
+hakai_DE629N1,2019-06-11 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.2772,-125.376983,Hakai Institute
+hakai_DE630N1,2019-06-11 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.243817,-125.3971,Hakai Institute
+hakai_DE631N1,2019-06-12 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.43845,-125.267033,Hakai Institute
+hakai_JE519N1,2019-06-16 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.5392,-126.77885,Hakai Institute
+hakai_DE632N1,2019-06-17 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.305667,-125.33775,Hakai Institute
+hakai_DE632N2,2019-06-17 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30785,-125.329683,Hakai Institute
+hakai_DE633N1,2019-06-18 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.275117,-125.37835,Hakai Institute
+hakai_DE633N2,2019-06-18 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.275117,-125.37835,Hakai Institute
+hakai_DE634N1,2019-06-20 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.456533,-125.268783,Hakai Institute
+hakai_JE520N1,2019-06-23 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.5458,-126.66536,Hakai Institute
+hakai_JE520N2,2019-06-23 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54616,-126.66828,Hakai Institute
+hakai_JE520N3,2019-06-23 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54602,-126.66768,Hakai Institute
+hakai_DE636N1,2019-06-24 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307533,-125.33005,Hakai Institute
+hakai_DE636N2,2019-06-24 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.309833,-125.330533,Hakai Institute
+hakai_JE522N1,2019-06-24 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.53839,-126.77386,Hakai Institute
+hakai_JE522N2,2019-06-24 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.53825,-126.77136,Hakai Institute
+hakai_DE638N1,2019-06-25 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.272117,-125.37515,Hakai Institute
+hakai_DE639N1,2019-06-25 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.24475,-125.396667,Hakai Institute
+hakai_DE639N2,2019-06-25 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.23995,-125.396583,Hakai Institute
+hakai_DE641N1,2019-06-26 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.452067,-125.247833,Hakai Institute
+hakai_DE641N2,2019-06-26 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.457617,-125.2586,Hakai Institute
+hakai_JE523N1,2019-06-28 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54513,-126.66184,Hakai Institute
+hakai_JE523N2,2019-06-28 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54599,-126.66737,Hakai Institute
+hakai_JE523N3,2019-06-28 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.5458,-126.66183,Hakai Institute
+hakai_JE524N1,2019-06-28 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.6012,-126.7028,Hakai Institute
+hakai_JE524N2,2019-06-28 00:00:00+00:00,Broughton Archipelago,3_3,Swanson Island,50.60129,-126.70315,Hakai Institute
+hakai_JE525N1,2019-06-29 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.54023,-126.78136,Hakai Institute
+hakai_JE525N2,2019-06-29 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.53973,-126.77827,Hakai Institute
+hakai_DE642N1,2019-07-02 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.305633,-125.337583,Hakai Institute
+hakai_DE642N2,2019-07-02 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.304533,-125.336083,Hakai Institute
+hakai_DE642N3,2019-07-02 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308817,-125.325983,Hakai Institute
+hakai_DE643N1,2019-07-03 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.2727,-125.376983,Hakai Institute
+hakai_DE644N1,2019-07-03 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.234917,-125.394583,Hakai Institute
+hakai_DE644N2,2019-07-03 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.232967,-125.393833,Hakai Institute
+hakai_DE644N3,2019-07-03 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.23085,-125.394533,Hakai Institute
+hakai_JE526N1,2019-07-04 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54523,-126.66216,Hakai Institute
+hakai_DE646N1,2019-07-04 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.457633,-125.259917,Hakai Institute
+hakai_DE646N2,2019-07-04 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.456783,-125.264833,Hakai Institute
+hakai_DE646N3,2019-07-04 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.456867,-125.26715,Hakai Institute
+hakai_JE527N1,2019-07-06 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.53932,-126.78125,Hakai Institute
+hakai_DE647N1,2019-07-08 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.305917,-125.333817,Hakai Institute
+hakai_DE647N2,2019-07-08 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3076,-125.327583,Hakai Institute
+hakai_DE647N3,2019-07-08 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.312667,-125.32365,Hakai Institute
+hakai_DE648N1,2019-07-09 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.26936667,-125.3628167,Hakai Institute
+hakai_DE649N1,2019-07-09 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.24285,-125.3972667,Hakai Institute
+hakai_DE649N2,2019-07-09 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.24078333,-125.3993833,Hakai Institute
+hakai_DE649N3,2019-07-09 00:00:00+00:00,Discovery Islands,3_2,McMullen Point,50.23451667,-125.39835,Hakai Institute
+hakai_JE528N1,2019-07-09 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54463,-126.65824,Hakai Institute
+hakai_JE528N2,2019-07-09 00:00:00+00:00,Broughton Archipelago,3_3,Cracroft Point,50.54428,-126.6545,Hakai Institute
+hakai_JE529N1,2019-07-11 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.54004,-126.78122,Hakai Institute
+hakai_JE529N2,2019-07-11 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.53959,-126.77962,Hakai Institute
+hakai_JE529N3,2019-07-11 00:00:00+00:00,Broughton Archipelago,3_3,Blinkhorn Bay,50.54053,-126.78,Hakai Institute
+hakai_DE651N1,2019-07-11 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.4573,-125.265333,Hakai Institute
+hakai_DE652N1,2019-07-22 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308483,-125.324317,Hakai Institute
+hakai_DE652N2,2019-07-22 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30645,-125.325817,Hakai Institute
+hakai_DE652N3,2019-07-22 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308717,-125.323283,Hakai Institute
+hakai_DE700N1,2020-05-15 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.19111,-125.144453,Hakai Institute
+hakai_DE701N2,2020-05-19 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307583,-125.33415,Hakai Institute
+hakai_DE702N1,2020-05-22 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.4383,-125.2686,Hakai Institute
+hakai_DE703N1,2020-05-26 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.46056,-125.38694,Hakai Institute
+hakai_DE704N1,2020-05-27 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.35722,-125.46279,Hakai Institute
+hakai_DE705N1,2020-06-01 00:00:00+00:00,Discovery Islands,3_2,Hoskyn Channel,50.190517,-125.1452,Hakai Institute
+hakai_DE706N1,2020-06-02 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307117,-125.331233,Hakai Institute
+hakai_DE706N2,2020-06-02 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.306667,-125.332067,Hakai Institute
+hakai_DE708N1,2020-06-05 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.4531,-125.25143,Hakai Institute
+hakai_DE708N2,2020-06-05 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.434167,-125.26273,Hakai Institute
+hakai_DE709N1,2020-06-08 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.306333,-125.336083,Hakai Institute
+hakai_DE710N1,2020-06-10 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.27148,-125.3666,Hakai Institute
+hakai_DE711N1,2020-06-16 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30703,-125.33487,Hakai Institute
+hakai_DE713N1,2020-06-19 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.44263,-125.2766,Hakai Institute
+hakai_DE714N1,2020-06-22 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.304917,-125.33435,Hakai Institute
+hakai_DE714N2,2020-06-22 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307317,-125.333167,Hakai Institute
+hakai_DE715N1,2020-06-23 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.273933,-125.377883,Hakai Institute
+hakai_DE716N1,2020-06-25 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.4554,-125.25286666666666,Hakai Institute
+hakai_DE716N2,2020-06-25 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.45666666666666,-125.25465,Hakai Institute
+hakai_DE718N1,2020-06-29 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30915,-125.3247,Hakai Institute
+hakai_DE720N1,2020-07-03 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.44235,-125.275617,Hakai Institute
+hakai_DE720N2,2020-07-03 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.440917,-125.272733,Hakai Institute
+hakai_DE721N1,2020-07-06 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.306067,-125.337867,Hakai Institute
+hakai_DE721N2,2020-07-06 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30685,-125.333,Hakai Institute
+hakai_DE722N1,2020-07-07 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.26861666666667,-125.36036666666666,Hakai Institute
+hakai_DE722N2,2020-07-07 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.26908333333333,-125.36,Hakai Institute
+hakai_DE801N1,2021-05-17 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3075,-125.3325,Hakai Institute
+hakai_DE801N2,2021-05-17 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307633,-125.331433,Hakai Institute
+hakai_DE801N3,2021-05-17 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307433,-125.334583,Hakai Institute
+hakai_DE802N1,2021-05-21 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.442383,-125.277267,Hakai Institute
+hakai_DE803N1,2021-05-25 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308367,-125.329583,Hakai Institute
+hakai_DE803N2,2021-05-25 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308467,-125.32935,Hakai Institute
+hakai_DE803N3,2021-05-25 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3084,-125.329367,Hakai Institute
+hakai_DE804N1,2021-05-26 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.26775,-125.361467,Hakai Institute
+hakai_DE805N1,2021-05-31 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3076,-125.333267,Hakai Institute
+hakai_DE806N1,2021-06-04 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.437717,-125.266483,Hakai Institute
+hakai_DE806N2,2021-06-04 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.438283,-125.266917,Hakai Institute
+hakai_DE807N1,2021-06-07 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30875,-125.32675,Hakai Institute
+hakai_DE807N2,2021-06-07 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.309083,-125.325917,Hakai Institute
+hakai_DE808N1,2021-06-08 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.274667,-125.378117,Hakai Institute
+hakai_DE809N1,2021-06-14 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308517,-125.32765,Hakai Institute
+hakai_DE809N2,2021-06-14 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308833,-125.325867,Hakai Institute
+hakai_DE809N3,2021-06-14 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3092,-125.32385,Hakai Institute
+hakai_DE810N1,2021-06-18 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.436383,-125.264617,Hakai Institute
+hakai_DE810N2,2021-06-18 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.436417,-125.264367,Hakai Institute
+hakai_DE810N3,2021-06-18 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.442917,-125.27925,Hakai Institute
+hakai_DE810N4,2021-06-18 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.4427,-125.278833,Hakai Institute
+hakai_DE811N1,2021-06-21 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3049,-125.3386,Hakai Institute
+hakai_DE811N2,2021-06-21 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30785,-125.330167,Hakai Institute
+hakai_DE812N1,2021-06-22 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.271717,-125.367233,Hakai Institute
+hakai_DE813N1,2021-06-28 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30705,-125.33325,Hakai Institute
+hakai_DE813N2,2021-06-28 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307017,-125.331783,Hakai Institute
+hakai_DE814N1,2021-07-02 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.438467,-125.269183,Hakai Institute
+hakai_DE814N2,2021-07-02 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.43885,-125.269383,Hakai Institute
+hakai_DE815N1,2021-07-05 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.309867,-125.32145,Hakai Institute
+hakai_DE816N1,2021-07-06 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.271533,-125.367517,Hakai Institute
+hakai_DE816N2,2021-07-06 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.2711,-125.367117,Hakai Institute
+hakai_DE901N1,2022-05-16 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.309033,-125.325767,Hakai Institute
+hakai_DE901N2,2022-05-16 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.309033,-125.326817,Hakai Institute
+hakai_DE902N1,2022-05-17 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.272017,-125.373233,Hakai Institute
+hakai_DE902N2,2022-05-17 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.27215,-125.372333,Hakai Institute
+hakai_DE903N1,2022-05-24 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307567,-125.331433,Hakai Institute
+hakai_DE903N2,2022-05-24 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3079,-125.3303,Hakai Institute
+hakai_DE903N3,2022-05-24 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308017,-125.329183,Hakai Institute
+hakai_DE906N1,2022-05-30 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307933,-125.33025,Hakai Institute
+hakai_DE907N1,2022-05-31 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.273167,-125.376917,Hakai Institute
+hakai_DE908N1,2022-06-06 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308783,-125.328233,Hakai Institute
+hakai_DE908N2,2022-06-06 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.308783,-125.327533,Hakai Institute
+hakai_DE908N3,2022-06-06 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30905,-125.3253,Hakai Institute
+hakai_DE909N1,2022-06-10 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.44135,-125.273383,Hakai Institute
+hakai_DE910N1,2022-06-13 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30705,-125.334833,Hakai Institute
+hakai_DE911N1,2022-06-14 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.271917,-125.372633,Hakai Institute
+hakai_DE912N1,2022-06-17 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.440467,-125.271967,Hakai Institute
+hakai_DE913N1,2022-06-20 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3072,-125.3309,Hakai Institute
+hakai_DE914N1,2022-06-24 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.437783,-125.266567,Hakai Institute
+hakai_DE915N1,2022-06-28 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30498333,-125.3363833,Hakai Institute
+hakai_DE915N2,2022-06-28 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30818333,-125.3292833,Hakai Institute
+hakai_DE916N1,2022-06-29 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.27418333,-125.3774833,Hakai Institute
+hakai_DE917N1,2022-07-04 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.30825,-125.32915,Hakai Institute
+hakai_DE917N2,2022-07-04 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307917,-125.3301,Hakai Institute
+hakai_DE918N1,2022-07-07 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.436683,-125.2645,Hakai Institute
+hakai_DE1001N1,2023-05-15 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.307167,-125.332833,Hakai Institute
+hakai_DE1002N1,2023-05-15 00:00:00+00:00,Discovery Islands,3_2,Chonat Bay,50.290883,-125.310617,Hakai Institute
+hakai_DE1003N1,2023-05-16 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.4426,-125.277033,Hakai Institute
+hakai_DE1003N2,2023-05-16 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.43945,-125.270433,Hakai Institute
+hakai_DE1004N1,2023-05-17 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.271783,-125.364417,Hakai Institute
+hakai_DE1005N1,2023-05-23 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.440633,-125.272833,Hakai Institute
+hakai_DE1005N2,2023-05-23 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.4428,-125.278933,Hakai Institute
+hakai_DE1007N1,2023-05-24 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3076,-125.33465,Hakai Institute
+hakai_DE1007N2,2023-05-24 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.306767,-125.336333,Hakai Institute
+hakai_DE1010N1,2023-05-29 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.442667,-125.278533,Hakai Institute
+hakai_DE1011N1,2023-05-30 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.306967,-125.3359,Hakai Institute
+hakai_DE1012N1,2023-05-31 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.271167,-125.36715,Hakai Institute
+hakai_DE1013N1,2023-06-05 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.442917,-125.27885,Hakai Institute
+hakai_DE1013N2,2023-06-05 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.443167,-125.27915,Hakai Institute
+hakai_DE1014N1,2023-06-05 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.457717,-125.2602,Hakai Institute
+hakai_DE1014N2,2023-06-05 00:00:00+00:00,Discovery Islands,3_2,Denham Bay,50.457183,-125.2577,Hakai Institute
+hakai_DE1015N1,2023-06-06 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3068,-125.3326,Hakai Institute
+hakai_DE1016N1,2023-06-07 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.271683,-125.370883,Hakai Institute
+hakai_DE1017N1,2023-06-12 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.442417,-125.277167,Hakai Institute
+hakai_DE1017N2,2023-06-12 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.442567,-125.278,Hakai Institute
+hakai_DE1018N1,2023-06-13 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3068,-125.335467,Hakai Institute
+hakai_DE1019N1,2023-06-15 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.269333,-125.3613,Hakai Institute
+hakai_DE1020N1,2023-06-19 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.44355,-125.27955,Hakai Institute
+hakai_DE1021N1,2023-06-20 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.305667,-125.331217,Hakai Institute
+hakai_DE1021N2,2023-06-20 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.305683,-125.33125,Hakai Institute
+hakai_DE1021N3,2023-06-20 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.306683,-125.332517,Hakai Institute
+hakai_DE1022N1,2023-06-21 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.26985,-125.362833,Hakai Institute
+hakai_DE1023N1,2023-06-27 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.44285,-125.278683,Hakai Institute
+hakai_DE1024N1,2023-06-28 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.305633,-125.338,Hakai Institute
+hakai_DE1024N2,2023-06-28 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3055,-125.337867,Hakai Institute
+hakai_DE1025N1,2023-06-29 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.27465,-125.377267,Hakai Institute
+hakai_DE1026N1,2023-07-03 00:00:00+00:00,Discovery Islands,3_2,Hall Point,50.4434,-125.279283,Hakai Institute
+hakai_DE1027N1,2023-07-04 00:00:00+00:00,Discovery Islands,3_2,Okisollo Channel,50.3077,-125.333783,Hakai Institute
+hakai_DE1028N1,2023-07-05 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.2746,-125.37745,Hakai Institute
+hakai_DE1028N2,2023-07-05 00:00:00+00:00,Discovery Islands,3_2,Granite Point,50.272067,-125.372017,Hakai Institute

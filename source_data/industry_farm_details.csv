@@ -1,0 +1,97 @@
+facility_id,name,dfozone,latitude,longitude,company,region_name
+1,Ahlstrom,3_1,49.7785270000001,-124.154337,Grieg,Jervis and Sechelt Inlet
+2,Alexander Inlet,3_5,52.67648,-128.57494,MOWI Canada West,Klemtu
+3,Althorpe,3_2,50.4728,-125.808583333333,MOWI Canada West,Discovery Islands
+5,Arrow Passage,3_3,50.7094,-126.662966666667,MOWI Canada West,Broughton Archipelago
+7,Atrevida,2_4,49.6560670000001,-126.453783,Grieg,Nootka / Muchalet Inlet / Esperanza / Quatsino
+9,Bare Bluff,2_3,49.3288170000001,-125.798417,Cermaq,Clayoquot Sound / Tofino
+11,Barnes Bay,3_2,50.3243300000001,-125.260558,Grieg,Discovery Islands
+12,Bawden,2_3,49.3061000000001,-126.009117,Cermaq,Clayoquot Sound / Tofino
+14,Bedwell,2_3,49.2694330000001,-125.810517,Cermaq,Clayoquot Sound / Tofino
+15,Bell Island,3_4,50.8317833333333,-127.52105,MOWI Canada West,Port Hardy / Goletus Channel
+19,Binns Island,2_3,49.339617,-125.9533,Cermaq,Clayoquot Sound / Tofino
+24,Brougham Point,3_2,50.3706166666667,-125.381116666667,MOWI Canada West,Discovery Islands
+25,Burdwood,3_3,50.7975,-126.494433,Cermaq,Broughton Archipelago
+27,Cecil Island,3_3,50.8501670000001,-126.715917,Cermaq,Broughton Archipelago
+29,Chancellor Channel,3_2,50.4135000000002,-125.6588,MOWI Canada West,Discovery Islands
+33,Church House Calm Channel,3_2,50.344417,-125.08863,MOWI Canada West,Discovery Islands
+35,Cliff Bay,3_3,50.8347670000001,-126.497733,Cermaq,Broughton Archipelago
+36,Cliff Cove,2_4,49.88622,-126.76972,Grieg,Nootka / Muchalet Inlet / Esperanza / Quatsino
+37,Concepcion,2_4,49.659437,-126.47622,Grieg,Nootka / Muchalet Inlet / Esperanza / Quatsino
+39,Conville Bay,3_2,50.178833,-125.15136,MOWI Canada West,Discovery Islands
+42,Cougar,3_5,52.71993,-128.57432,MOWI Canada West,Klemtu
+44,Culloden,3_1,49.7960970000001,-124.098635,Grieg,Jervis and Sechelt Inlet
+45,Cypress Harbour,3_3,50.8374741968636,-126.663728089515,Cermaq,Broughton Archipelago
+46,Cyrus Rocks,3_2,50.2562833333334,-125.21145,MOWI Canada West,Discovery Islands
+50,Dixon Bay,2_3,49.404183,-126.151667,Cermaq,Clayoquot Sound / Tofino
+51,Doctor Islets,3_3,50.6547333333334,-126.28805,MOWI Canada West,Broughton Archipelago
+52,Doyle Island,3_4,50.8146333333334,-127.491016666667,MOWI Canada West,Port Hardy / Goletus Channel
+53,Duncan Island,3_4,50.8214500000001,-127.552383333333,MOWI Canada West,Port Hardy / Goletus Channel
+58,Esperanza,2_4,49.878288,-126.761623,Grieg,Nootka / Muchalet Inlet / Esperanza / Quatsino
+61,Farside,3_2,50.4861833333333,-125.27555,MOWI Canada West,Discovery Islands
+62,Fortune Channel,2_3,49.2342330000001,-125.751767,Cermaq,Clayoquot Sound / Tofino
+63,Frederick Arm,3_2,50.4694833333334,-125.26285,MOWI Canada West,Discovery Islands
+67,Ghi ya (Bull Harbour),3_4,50.90078,-127.93638,MOWI Canada West,Port Hardy / Goletus Channel
+69,Glacier Falls,3_3,50.8480333333333,-126.317383333333,MOWI Canada West,Broughton Archipelago
+70,Goat Cove,3_5,52.7855666666667,-128.415666666667,MOWI Canada West,Klemtu
+72,Gore,2_4,49.6458330000001,-126.434292,Grieg,Nootka / Muchalet Inlet / Esperanza / Quatsino
+73,Hardwicke Island,3_2,50.4145000000001,-125.769633333333,MOWI Canada West,Discovery Islands
+76,Hecate,2_4,49.8688380000001,-126.757947,Grieg,Nootka / Muchalet Inlet / Esperanza / Quatsino
+79,Humphrey Rocks,3_3,50.6987,-126.2545,MOWI Canada West,Broughton Archipelago
+82,Jackson Passage,3_5,52.5376166666667,-128.404566666667,MOWI Canada West,Klemtu
+85,Kid Bay,3_5,52.7981333333335,-128.404366666667,MOWI Canada West,Klemtu
+88,Koskimo Bay,2_4,50.4575166666667,-127.891133333333,MOWI Canada West,Nootka / Muchalet Inlet / Esperanza / Quatsino
+89,Kunechin,3_1,49.634543,-123.782795,Grieg,Jervis and Sechelt Inlet
+91,Larsen Island,3_3,50.6012,-126.634216666667,MOWI Canada West,Broughton Archipelago
+92,Lees Bay,3_2,50.4107833333334,-125.700616666667,MOWI Canada West,Discovery Islands
+94,Lime Bay,3_5,52.78495,-128.33385,MOWI Canada West,Klemtu
+96,Localsh Bay,3_5,52.5334333333333,-128.36105,MOWI Canada West,Klemtu
+97,Lutes Creek,2_4,49.89211,-126.81325,Grieg,Nootka / Muchalet Inlet / Esperanza / Quatsino
+99,Mahatta East,2_4,50.4739333333333,-127.7882,MOWI Canada West,Nootka / Muchalet Inlet / Esperanza / Quatsino
+100,Mahatta West,2_4,50.4696666666667,-127.844277777778,MOWI Canada West,Nootka / Muchalet Inlet / Esperanza / Quatsino
+102,Marsh Bay,3_4,50.9055000000002,-127.3432,MOWI Canada West,Port Hardy / Goletus Channel
+103,Maude Island,3_3,50.854267,-126.75715,Cermaq,Broughton Archipelago
+98,MacIntyre,2_3,49.306583,-125.818,Cermaq,Clayoquot Sound / Tofino
+105,Midsummer Island,3_3,50.65545,-126.6662,MOWI Canada West,Broughton Archipelago
+106,Millar,2_3,49.3748330000001,-126.092783,Cermaq,Clayoquot Sound / Tofino
+107,Monday Rocks,2_4,50.4846500000001,-127.877883333333,MOWI Canada West,Nootka / Muchalet Inlet / Esperanza / Quatsino
+108,Muchalat North,2_4,49.643955,-126.339003,Grieg,Nootka / Muchalet Inlet / Esperanza / Quatsino
+109,Muchalat South,2_4,49.6400380000001,-126.32638,Grieg,Nootka / Muchalet Inlet / Esperanza / Quatsino
+110,Mussel Rock,2_3,49.2584488546232,-125.869913996528,Cermaq,Clayoquot Sound / Tofino
+113,Noo-la,3_3,50.6077000000001,-126.363317,Grieg,Broughton Archipelago
+117,Okisollo (Sonora Island),3_2,50.30946,-125.31618,MOWI Canada West,Discovery Islands
+23,Brent Island,3_2,50.28655,-125.348283,Cermaq,Discovery Islands
+121,Phillips Arm,3_2,50.4878333333334,-125.358,MOWI Canada West,Discovery Islands
+123,Plover Point,2_3,49.2141330000001,-125.767167,Cermaq,Clayoquot Sound / Tofino
+124,Port Elizabeth,3_3,50.6705666666667,-126.477566666667,MOWI Canada West,Broughton Archipelago
+125,Potts Bay,3_3,50.6498,-126.6188,MOWI Canada West,Broughton Archipelago
+129,Rant Point,2_3,49.2601,-125.84125,Cermaq,Clayoquot Sound / Tofino
+130,Raynor Group,3_4,50.8921500000001,-127.255266666667,MOWI Canada West,Port Hardy / Goletus Channel
+131,Raza Island,3_2,50.321067,-125.007383,Cermaq,Discovery Islands
+133,Robertson Cr,3_4,50.9138666666667,-127.422466666667,MOWI Canada West,Port Hardy / Goletus Channel
+134,Ross Pass,2_3,49.324483,-126.048667,Cermaq,Clayoquot Sound / Tofino
+135,Salten,3_1,49.6154220000001,-123.831955,Grieg,Jervis and Sechelt Inlet
+139,Saranac Island,2_3,49.2453830000001,-125.904333,Cermaq,Clayoquot Sound / Tofino
+140,Sargeaunt Passage,3_3,50.6714000000001,-126.1858,MOWI Canada West,Broughton Archipelago
+141,Shaw Point,3_2,50.4851666666667,-125.887666666667,MOWI Canada West,Discovery Islands
+142,Sheep Passage,3_5,52.7955333333333,-128.3141,MOWI Canada West,Klemtu
+143,Shelter Bay,3_4,50.9641500000001,-127.4883,MOWI Canada West,Port Hardy / Goletus Channel
+144,Shelter Passage,3_4,50.8822333333334,-127.499133333333,MOWI Canada West,Port Hardy / Goletus Channel
+145,Simmonds Point,3_3,50.8780170000001,-126.904367,Cermaq,Broughton Archipelago
+146,Sir Edmund Bay,3_3,50.8305330000001,-126.59755,Cermaq,Broughton Archipelago
+59,Farm 13,3_1,49.6285520000001,-123.844577,Grieg,Jervis and Sechelt Inlet
+60,Farm 9,3_1,49.6465480000001,-123.724413,Grieg,Jervis and Sechelt Inlet
+148,Sonora Point,3_2,50.4257666666667,-125.30665,MOWI Canada West,Discovery Islands
+152,Steamer,2_4,49.887605,-126.790878,Grieg,Nootka / Muchalet Inlet / Esperanza / Quatsino
+156,Swanson Island,3_3,50.6195500000001,-126.707233333333,MOWI Canada West,Broughton Archipelago
+160,Thurlow Point,3_2,50.4074666666668,-125.342116666667,MOWI Canada West,Discovery Islands
+161,Tsa-ya,3_3,50.61225,-126.33212,Grieg,Broughton Archipelago
+164,Upper Retreat,3_3,50.72065,-126.56775,MOWI Canada West,Broughton Archipelago
+165,Vantage,3_1,49.6720020000001,-123.858628,Grieg,Jervis and Sechelt Inlet
+166,Venture Point,3_2,50.3023329999999,-125.337883,Cermaq,Discovery Islands
+168,Wa-kwa,3_3,50.60106,-126.34741,Grieg,Broughton Archipelago
+169,Wanx talis (Heath Bay),3_4,50.89322,-127.89568,MOWI Canada West,Port Hardy / Goletus Channel
+171,Wehlis Bay,3_3,50.8649500000001,-126.921683,Cermaq,Broughton Archipelago
+172,Westside,2_3,49.2790830000001,-125.830817,Cermaq,Clayoquot Sound / Tofino
+173,Wicklow Point,3_3,50.78575,-126.691116666667,MOWI Canada West,Broughton Archipelago
+174,Williamson,2_4,49.6560070000001,-126.429063,Grieg,Nootka / Muchalet Inlet / Esperanza / Quatsino
