@@ -1,4 +1,4 @@
-facility_id,year,month,fishselected,chalimus_ab,lep_motile_ab,lep_af_ab,cal_motile_ab,weight
+facility_id,year,month,fish_selected,chalimus_ab,lep_motile_ab,lep_af_ab,cal_motile_ab,weight
 1,2009,5,120,0.0000,0.0167,0.0083,0.0000,1.0000
 1,2009,6,40,0.0000,0.0000,0.0000,0.0000,0.4793
 1,2010,11,60,0.0167,0.5333,0.1833,0.0167,0.4773

@@ -12277,6 +12277,45 @@ event_id,sampledate,region,dfozone,sample_site,latitude,longitude,source
 12270,2020-05-25,Espinosa Inlet,2_4,Site 14,49.851366666666664,-126.86868333333334,Mainstream Biological Consulting
 12271,2020-03-30,Esperanza Inlet,2_4,Site 13,,,Mainstream Biological Consulting
 12272,2020-04-20,Esperanza Inlet,2_4,Site 13,,,Mainstream Biological Consulting
+15093,2023-05-01,Klemtu,3_5,Arthur Island,52.45585,-128.2685,Kitasoo First Nation
+15094,2023-05-01,Klemtu,3_5,Jackson Pass,52.5485,-128.43657,Kitasoo First Nation
+15095,2023-05-01,Klemtu,3_5,Mary's Cove,52.60318,-128.51335,Kitasoo First Nation
+15096,2023-05-01,Klemtu,3_5,Suzy Bay,52.51358,-128.42353,Kitasoo First Nation
+15097,2023-05-02,Klemtu,3_5,Carter Bay,52.81838,-128.39097,Kitasoo First Nation
+15098,2023-05-02,Klemtu,3_5,Goat Cove,52.74278,-128.42242,Kitasoo First Nation
+15099,2023-05-02,Klemtu,3_5,Windy Bay,52.78355,-128.25683,Kitasoo First Nation
+15100,2023-05-03,Klemtu,3_5,Hird Point,52.53565,-128.24597,Kitasoo First Nation
+15101,2023-05-03,Klemtu,3_5,Kynoch,52.76952,-128.1294,Kitasoo First Nation
+15102,2023-05-04,Klemtu,3_5,Cougar Bay,52.74073,-128.5778,Kitasoo First Nation
+15103,2023-05-04,Klemtu,3_5,Lower Tolmie,52.66368,-128.56002,Kitasoo First Nation
+15104,2023-05-05,Klemtu,3_5,Lower Laredo,52.61315,-128.76955,Kitasoo First Nation
+15105,2023-05-05,Klemtu,3_5,Meyer's Pass,52.6063,-128.46813,Kitasoo First Nation
+15106,2023-05-05,Klemtu,3_5,Upper Laredo,52.72682,-128.78293,Kitasoo First Nation
+15107,2023-05-08,Klemtu,3_5,Jackson Pass,52.54872,-128.43645,Kitasoo First Nation
+15108,2023-05-08,Klemtu,3_5,Mary's Cove,52.60313,-128.51323,Kitasoo First Nation
+15109,2023-05-08,Klemtu,3_5,Suzy Bay,52.51352,-128.4239,Kitasoo First Nation
+15110,2023-05-09,Klemtu,3_5,Lower Tolmie,52.6635,-128.56,Kitasoo First Nation
+15111,2023-05-09,Klemtu,3_5,Upper Tolmie,52.74088,-128.57682,Kitasoo First Nation
+15112,2023-05-15,Klemtu,3_5,Jackson Pass,52.54622,-128.4295,Kitasoo First Nation
+15113,2023-05-15,Klemtu,3_5,Mary's Cove,52.60317,-128.51373,Kitasoo First Nation
+15114,2023-05-18,Klemtu,3_5,Carter Bay,52.81833,-128.39105,Kitasoo First Nation
+15115,2023-05-18,Klemtu,3_5,Goat Cove,52.78212,-128.41232,Kitasoo First Nation
+15116,2023-05-18,Klemtu,3_5,Windy Bay,52.78378,-128.2566,Kitasoo First Nation
+15117,2023-05-23,Klemtu,3_5,Arthur Island,52.47727,-128.28132,Kitasoo First Nation
+15118,2023-05-23,Klemtu,3_5,Hird Point,52.57143,-128.24198,Kitasoo First Nation
+15119,2023-05-23,Klemtu,3_5,Kynoch,52.77383,-128.07328,Kitasoo First Nation
+15120,2023-05-24,Klemtu,3_5,Lower Tolmie,52.66387,-128.56025,Kitasoo First Nation
+15121,2023-05-24,Klemtu,3_5,Upper Tolmie,52.74065,-128.58122,Kitasoo First Nation
+15122,2023-05-25,Klemtu,3_5,Meyer's Pass,52.61147,-128.57932,Kitasoo First Nation
+15123,2023-05-25,Klemtu,3_5,Milne Island,52.61258,-128.76833,Kitasoo First Nation
+15124,2023-05-25,Klemtu,3_5,Upper Laredo,52.72607,-128.78142,Kitasoo First Nation
+15125,2023-05-26,Klemtu,3_5,Jackson Pass,52.54848,-128.43623,Kitasoo First Nation
+15126,2023-05-26,Klemtu,3_5,Mary's Cove,52.60323,-128.51347,Kitasoo First Nation
+15127,2023-05-26,Klemtu,3_5,Suzy Bay,52.5139,-128.42362,Kitasoo First Nation
+15128,2023-05-29,Klemtu,3_5,Carter Bay,52.80748,-128.35942,Kitasoo First Nation
+15129,2023-05-29,Klemtu,3_5,Goat Cove,52.78098,-128.39765,Kitasoo First Nation
+15130,2023-05-29,Klemtu,3_5,Windy Bay,52.7838,-128.25652,Kitasoo First Nation
+15131,2023-05-30,Klemtu,3_5,Arthur Island,52.44358,-128.28103,Kitasoo First Nation
 12278,2017-04-10,Port Hardy,3_4,Zone 4 Site 3,50.861533333333334,-127.75795,Pacificus Biological Services
 12279,2017-04-10,Port Hardy,3_4,Zone 5 Site 2,50.82856666666667,-127.526,Pacificus Biological Services
 12280,2017-04-11,Port Hardy,3_4,Zone 3 Site 2,50.897216666666665,-127.90366666666667,Pacificus Biological Services
@@ -14999,3 +15038,118 @@ event_id,sampledate,region,dfozone,sample_site,latitude,longitude,source
 15083,2023-05-25,Port Hardy,3_4,H18,,,Mainstream Biological Consulting
 15084,2023-05-25,Port Hardy,3_4,H7,,,Mainstream Biological Consulting
 15085,2023-05-25,Port Hardy,3_4,H14,,,Mainstream Biological Consulting
+15132,2023-05-30,Klemtu,3_5,Hird Point,52.6107,-128.28798,Kitasoo First Nation
+15133,2023-05-31,Klemtu,3_5,Arthur Island,52.47725,-128.28128,Kitasoo First Nation
+15134,2023-05-31,Klemtu,3_5,Hird Point,52.5714,-128.242,Kitasoo First Nation
+15135,2023-05-31,Klemtu,3_5,Kynoch,52.77387,-128.07657,Kitasoo First Nation
+15136,2023-05-31,Klemtu,3_5,Lower Tolmie,52.66375,-128.56155,Kitasoo First Nation
+15137,2023-05-31,Klemtu,3_5,Meyer's Pass,52.43898,-128.60208,Kitasoo First Nation
+15138,2023-05-31,Klemtu,3_5,Milne Island,52.61343,-128.77107,Kitasoo First Nation
+15139,2023-05-31,Klemtu,3_5,Upper Laredo,52.72835,-128.78245,Kitasoo First Nation
+15140,2023-05-31,Klemtu,3_5,Upper Tolmie,52.74077,-128.58008,Kitasoo First Nation
+15141,2023-06-20,Klemtu,3_5,Arthur Island,52.4698,-128.27168,Kitasoo First Nation
+15142,2023-06-16,Klemtu,3_5,Carter Bay,52.81853,-128.39083,Kitasoo First Nation
+15143,2023-06-05,Klemtu,3_5,Cougar Bay,52.74053,-128.58025,Kitasoo First Nation
+15144,2023-06-21,Klemtu,3_5,Cougar Bay,52.7407,-128.57888,Kitasoo First Nation
+15145,2023-06-09,Klemtu,3_5,Jackson Pass,52.54807,-128.43382,Kitasoo First Nation
+15146,2023-06-02,Klemtu,3_5,Kynoch,52.76907,-128.12945,Kitasoo First Nation
+15147,2023-06-05,Klemtu,3_5,Lower Tolmie,52.6638,-128.56033,Kitasoo First Nation
+15148,2023-06-21,Klemtu,3_5,Lower Tolmie,52.66357,-128.56127,Kitasoo First Nation
+15149,2023-06-09,Klemtu,3_5,Mary's Cove,52.60328,-128.51347,Kitasoo First Nation
+15150,2023-06-09,Klemtu,3_5,Suzy Bay,52.44302,-128.41552,Kitasoo First Nation
+15151,2023-06-30,Klemtu,3_5,Unknown,,,Kitasoo First Nation
+15152,2023-06-16,Klemtu,3_5,Windy Bay,52.78372,-128.25663,Kitasoo First Nation
+15153,2023-04-19,Discovery Islands,3_2,Bear Bay,50.36327,-125.63537,Mainstream Biological Consulting
+15154,2023-04-19,Discovery Islands,3_2,Bickley Bay,50.44488,-125.39687,Mainstream Biological Consulting
+15155,2023-04-19,Discovery Islands,3_2,Cordero,50.44925,-125.54458,Mainstream Biological Consulting
+15156,2023-04-19,Discovery Islands,3_2,Deepwater Bay,50.17788,-125.3256,Mainstream Biological Consulting
+15157,2023-04-19,Discovery Islands,3_2,Discovery,50.34163,-125.3996,Mainstream Biological Consulting
+15158,2023-04-19,Discovery Islands,3_2,Fanny Bay,50.52008,-125.38695,Mainstream Biological Consulting
+15159,2023-04-19,Discovery Islands,3_2,Knox Bay,50.39338,-125.60545,Mainstream Biological Consulting
+15160,2023-04-19,Discovery Islands,3_2,Nodales,50.40162,-125.34908,Mainstream Biological Consulting
+15161,2023-04-19,Discovery Islands,3_2,Okisollo,50.312,-125.3144,Mainstream Biological Consulting
+15162,2023-04-19,Discovery Islands,3_2,Owen Bay,50.32347,-125.21527,Mainstream Biological Consulting
+15163,2023-04-19,Discovery Islands,3_2,Rock Bay,50.32785,-125.47343,Mainstream Biological Consulting
+15164,2023-04-19,Discovery Islands,3_2,Shoal Bay,50.45692,-125.36635,Mainstream Biological Consulting
+15165,2023-04-20,Discovery Islands,3_2,Primary 1,50.43043,-126.03002,Mainstream Biological Consulting
+15166,2023-04-20,Discovery Islands,3_2,Race Passage,50.38455,-125.8869,Mainstream Biological Consulting
+15167,2023-04-21,Discovery Islands,3_2,Francisco Point,50.00333,-125.15705,Mainstream Biological Consulting
+15168,2023-04-21,Discovery Islands,3_2,Marina Island,50.07138,-125.07347,Mainstream Biological Consulting
+15169,2023-04-21,Discovery Islands,3_2,Penn Island,50.18348,-125.02432,Mainstream Biological Consulting
+15170,2023-04-21,Discovery Islands,3_2,Raza,50.31987,-124.98252,Mainstream Biological Consulting
+15171,2023-04-21,Discovery Islands,3_2,Raza North,50.34853,-125.03312,Mainstream Biological Consulting
+15172,2023-04-21,Discovery Islands,3_2,Rebecca Spit,50.10588,-125.19722,Mainstream Biological Consulting
+15173,2023-04-21,Discovery Islands,3_2,SE Hill Island,50.15963,-125.06032,Mainstream Biological Consulting
+15174,2023-04-21,Discovery Islands,3_2,Viner Point,50.13142,-125.13007,Mainstream Biological Consulting
+15175,2023-05-17,Discovery Islands,3_2,Bear Bay,50.36353,-125.6349,Mainstream Biological Consulting
+15176,2023-05-17,Discovery Islands,3_2,Bickley Bay,50.44475,-125.39688,Mainstream Biological Consulting
+15177,2023-05-17,Discovery Islands,3_2,Cordero,50.44965,-125.54768,Mainstream Biological Consulting
+15178,2023-05-17,Discovery Islands,3_2,Deepwater Bay,50.1852,-125.33168,Mainstream Biological Consulting
+15179,2023-05-17,Discovery Islands,3_2,Discovery,50.34165,-125.39938,Mainstream Biological Consulting
+15180,2023-05-17,Discovery Islands,3_2,Fanny Bay,50.51965,-125.3865,Mainstream Biological Consulting
+15181,2023-05-17,Discovery Islands,3_2,Knox Bay,50.39317,-125.60615,Mainstream Biological Consulting
+15182,2023-05-17,Discovery Islands,3_2,Nodales,50.40168,-125.34898,Mainstream Biological Consulting
+15183,2023-05-17,Discovery Islands,3_2,Okisollo,50.31197,-125.31467,Mainstream Biological Consulting
+15184,2023-05-17,Discovery Islands,3_2,Owen Bay,50.32332,-125.21562,Mainstream Biological Consulting
+15185,2023-05-17,Discovery Islands,3_2,Rock Bay,50.3281,-125.47338,Mainstream Biological Consulting
+15186,2023-05-17,Discovery Islands,3_2,Shoal Bay,50.45763,-125.36527,Mainstream Biological Consulting
+15187,2023-05-18,Discovery Islands,3_2,Beautiful Bay,50.4484,-126.08457,Mainstream Biological Consulting
+15188,2023-05-18,Discovery Islands,3_2,Bessborough Bay,50.4917,-125.77433,Mainstream Biological Consulting
+15189,2023-05-18,Discovery Islands,3_2,Blenkinsop Bay,50.47908,-125.99945,Mainstream Biological Consulting
+15190,2023-05-18,Discovery Islands,3_2,Chancellor Channel,50.40887,-125.73112,Mainstream Biological Consulting
+15191,2023-05-18,Discovery Islands,3_2,Primary 1,50.43038,-126.02977,Mainstream Biological Consulting
+15192,2023-05-18,Discovery Islands,3_2,Primary 3,50.47767,-126.05827,Mainstream Biological Consulting
+15193,2023-05-18,Discovery Islands,3_2,Race Passage,50.38463,-125.88743,Mainstream Biological Consulting
+15194,2023-05-18,Discovery Islands,3_2,Sunderland,50.47015,-125.84322,Mainstream Biological Consulting
+15195,2023-05-18,Discovery Islands,3_2,Wellbore Channel,50.45308,-125.76898,Mainstream Biological Consulting
+15196,2023-05-19,Discovery Islands,3_2,Francisco Point,50.00592,-125.15318,Mainstream Biological Consulting
+15197,2023-05-19,Discovery Islands,3_2,Marina Island,50.0783,-125.07032,Mainstream Biological Consulting
+15198,2023-05-19,Discovery Islands,3_2,Penn Island,50.18343,-125.02433,Mainstream Biological Consulting
+15199,2023-05-19,Discovery Islands,3_2,Raza,50.3201,-124.98302,Mainstream Biological Consulting
+15200,2023-05-19,Discovery Islands,3_2,Raza North,50.34872,-125.0337,Mainstream Biological Consulting
+15201,2023-05-19,Discovery Islands,3_2,Rebecca Spit,50.1057,-125.1981,Mainstream Biological Consulting
+15202,2023-05-19,Discovery Islands,3_2,SE Hill Island,50.15992,-125.06065,Mainstream Biological Consulting
+15203,2023-05-19,Discovery Islands,3_2,Viner Point,50.13138,-125.1303,Mainstream Biological Consulting
+15204,2023-06-06,Discovery Islands,3_2,Bickley Bay,50.44508,-125.39745,Mainstream Biological Consulting
+15205,2023-06-06,Discovery Islands,3_2,Cordero,50.44902,-125.54445,Mainstream Biological Consulting
+15206,2023-06-06,Discovery Islands,3_2,Deepwater Bay,50.17808,-125.32762,Mainstream Biological Consulting
+15207,2023-06-06,Discovery Islands,3_2,Discovery,50.34178,-125.39967,Mainstream Biological Consulting
+15208,2023-06-06,Discovery Islands,3_2,Fanny Bay,50.51967,-125.38662,Mainstream Biological Consulting
+15209,2023-06-06,Discovery Islands,3_2,Nodales,50.40155,-125.34868,Mainstream Biological Consulting
+15210,2023-06-06,Discovery Islands,3_2,Okisollo,50.31495,-125.3147,Mainstream Biological Consulting
+15211,2023-06-06,Discovery Islands,3_2,Owen Bay,50.32308,-125.21735,Mainstream Biological Consulting
+15212,2023-06-06,Discovery Islands,3_2,Rock Bay,50.3278,-125.47307,Mainstream Biological Consulting
+15213,2023-06-06,Discovery Islands,3_2,Shoal Bay,50.45792,-125.36565,Mainstream Biological Consulting
+15214,2023-06-07,Discovery Islands,3_2,Bear Bay,50.36343,-125.63493,Mainstream Biological Consulting
+15215,2023-06-07,Discovery Islands,3_2,Beautiful Bay,50.4478,-126.08333,Mainstream Biological Consulting
+15216,2023-06-07,Discovery Islands,3_2,Bessborough Bay,50.49018,-125.77732,Mainstream Biological Consulting
+15217,2023-06-07,Discovery Islands,3_2,Blenkinsop Bay,50.47888,-125.99957,Mainstream Biological Consulting
+15218,2023-06-07,Discovery Islands,3_2,Chancellor Channel,50.40968,-125.73075,Mainstream Biological Consulting
+15219,2023-06-07,Discovery Islands,3_2,Knox Bay,50.39307,-125.60522,Mainstream Biological Consulting
+15220,2023-06-07,Discovery Islands,3_2,Primary 1,50.43035,-126.02972,Mainstream Biological Consulting
+15221,2023-06-07,Discovery Islands,3_2,Primary 3,50.48077,-126.06828,Mainstream Biological Consulting
+15222,2023-06-07,Discovery Islands,3_2,Race Passage,50.38462,-125.88717,Mainstream Biological Consulting
+15223,2023-06-07,Discovery Islands,3_2,Sunderland,50.4702,-125.84325,Mainstream Biological Consulting
+15224,2023-06-07,Discovery Islands,3_2,Wellbore Channel,50.45313,-125.7678,Mainstream Biological Consulting
+15225,2023-06-08,Discovery Islands,3_2,Francisco Point,50.00765,-125.15087,Mainstream Biological Consulting
+15226,2023-06-08,Discovery Islands,3_2,Marina Island,50.0781,-125.06888,Mainstream Biological Consulting
+15227,2023-06-08,Discovery Islands,3_2,Penn Island,50.1837,-125.02448,Mainstream Biological Consulting
+15228,2023-06-08,Discovery Islands,3_2,Raza,50.31968,-124.98242,Mainstream Biological Consulting
+15229,2023-06-08,Discovery Islands,3_2,Raza North,50.351,-125.04228,Mainstream Biological Consulting
+15230,2023-06-08,Discovery Islands,3_2,Rebecca Spit,50.10528,-125.19793,Mainstream Biological Consulting
+15231,2023-06-08,Discovery Islands,3_2,SE Hill Island,50.15975,-125.05997,Mainstream Biological Consulting
+15232,2023-06-08,Discovery Islands,3_2,Viner Point,50.1315,-125.13005,Mainstream Biological Consulting
+15233,2023-05-16,Discovery Islands,3_2,Bickley Bay,,,Mainstream Biological Consulting
+15234,2023-05-16,Discovery Islands,3_2,Nodales,,,Mainstream Biological Consulting
+15235,2023-05-16,Discovery Islands,3_2,Shoal Bay,,,Mainstream Biological Consulting
+15236,2023-07-06,Discovery Islands,3_2,Bear Bay,,,Mainstream Biological Consulting
+15237,2023-07-06,Discovery Islands,3_2,Bessborough Bay,,,Mainstream Biological Consulting
+15238,2023-07-06,Discovery Islands,3_2,Chancellor Channel,,,Mainstream Biological Consulting
+15239,2023-07-06,Discovery Islands,3_2,Primary 3,,,Mainstream Biological Consulting
+15240,2023-07-06,Discovery Islands,3_2,Race Passage,,,Mainstream Biological Consulting
+15241,2023-07-06,Discovery Islands,3_2,Sunderland,,,Mainstream Biological Consulting
+15242,2023-07-06,Discovery Islands,3_2,Wellbore Channel,,,Mainstream Biological Consulting
+15243,2023-08-06,Discovery Islands,3_2,Raza,,,Mainstream Biological Consulting
+15244,2023-08-06,Discovery Islands,3_2,Raza North,,,Mainstream Biological Consulting
+15245,2023-08-06,Discovery Islands,3_2,Rebecca Spit,,,Mainstream Biological Consulting
+15246,2023-08-06,Discovery Islands,3_2,SE Hill Island,,,Mainstream Biological Consulting
