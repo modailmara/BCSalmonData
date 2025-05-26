@@ -16109,8 +16109,8 @@ ccfs_Cypre_River_2021-06-17,2021-06-17,Clayoquot Sound,2_3,Cypre River,49.277706
 ccfs_Bedwell_2_2021-06-17,2021-06-17,Clayoquot Sound,2_3,Bedwell 2,49.321752380952375,-125.81621666666668,Cedar Coast Field Station,CC
 ccfs_Ritchie_Bay_2019-04-10,2019-04-10,Clayoquot Sound,2_3,Ritchie Bay,49.22451904761905,-125.9230625,Cedar Coast Field Station,CC
 ccfs_Bedwell_Estuary_2019-05-10,2019-05-10,Clayoquot Sound,2_3,Bedwell Estuary,49.3124,-125.8147777777778,Cedar Coast Field Station,CC
-hakai_DE100N2,2015-05-12,,,Hurtado Point,,,Hakai Institute,Hak
-hakai_DE100N1,2015-05-12,,,Hurtado Point,,,Hakai Institute,Hak
+hakai_DE100N2,2015-05-12,BA/DI border,,Hurtado Point,,,Hakai Institute,Hak
+hakai_DE100N1,2015-05-12,BA/DI border,,Hurtado Point,,,Hakai Institute,Hak
 hakai_DE100N3,2015-05-12,Discovery Islands,3_2,Hurtado Point,49.9613,-124.747,Hakai Institute,Hak
 hakai_DE101N1,2015-05-13,Discovery Islands,3_2,Kinghorn Island,50.07902,-124.8509,Hakai Institute,Hak
 hakai_DE102N1,2015-05-14,Discovery Islands,3_2,Francisco Point,49.99932,-125.1395,Hakai Institute,Hak
@@ -16125,102 +16125,102 @@ hakai_DE110N1,2015-05-18,Discovery Islands,3_2,Lewis Channel,50.1659,-124.8888,H
 hakai_DE111N1,2015-05-19,Discovery Islands,3_2,Calm Channel,50.34273,-125.0841,Hakai Institute,Hak
 hakai_DE112N1,2015-05-20,Discovery Islands,3_2,Okisollo Channel,50.30787,-125.3293,Hakai Institute,Hak
 hakai_DE114N1,2015-05-21,Discovery Islands,3_2,Sutil Narrows,50.13705,-125.1175,Hakai Institute,Hak
-hakai_DE115N1,2015-05-21,,,Hoskyn Channel,,,Hakai Institute,Hak
+hakai_DE115N1,2015-05-21,BA/DI border,,Hoskyn Channel,,,Hakai Institute,Hak
 hakai_DE115N2,2015-05-21,Discovery Islands,3_2,Hoskyn Channel,50.18217,-125.1493,Hakai Institute,Hak
 hakai_DE116N1,2015-05-23,Discovery Islands,3_2,Calm Channel,50.31962,-125.0395,Hakai Institute,Hak
 hakai_DE117N1,2015-05-23,Discovery Islands,3_2,Hall Point,50.44365,-125.279,Hakai Institute,Hak
-hakai_DE120N1,2015-05-24,,,Turn Island,,,Hakai Institute,Hak
+hakai_DE120N1,2015-05-24,BA/DI border,,Turn Island,,,Hakai Institute,Hak
 hakai_DE120N2,2015-05-24,Discovery Islands,3_2,Turn Island,50.34655,-125.45602,Hakai Institute,Hak
 hakai_DE121N1,2015-05-24,Discovery Islands,3_2,Okisollo Channel,50.30723,-125.33345,Hakai Institute,Hak
 hakai_DE124N1,2015-05-25,Discovery Islands,3_2,Calm Channel,50.3153,-125.05186,Hakai Institute,Hak
-hakai_DE125N1,2015-05-25,,,Lewis Channel,,,Hakai Institute,Hak
-hakai_DE128N3,2015-05-26,,,Hall Point,,,Hakai Institute,Hak
-hakai_DE128N2,2015-05-26,,,Hall Point,,,Hakai Institute,Hak
-hakai_DE128N1,2015-05-26,,,Hall Point,,,Hakai Institute,Hak
+hakai_DE125N1,2015-05-25,BA/DI border,,Lewis Channel,,,Hakai Institute,Hak
+hakai_DE128N3,2015-05-26,BA/DI border,,Hall Point,,,Hakai Institute,Hak
+hakai_DE128N2,2015-05-26,BA/DI border,,Hall Point,,,Hakai Institute,Hak
+hakai_DE128N1,2015-05-26,BA/DI border,,Hall Point,,,Hakai Institute,Hak
 hakai_DE128N4,2015-05-26,Discovery Islands,3_2,Hall Point,50.44466,-125.2804,Hakai Institute,Hak
 hakai_DE130N1,2015-05-26,Discovery Islands,3_2,Okisollo Channel,50.30795,-125.32452,Hakai Institute,Hak
 hakai_DE137N1,2015-05-28,Discovery Islands,3_2,Hall Point,50.44941,-125.33027,Hakai Institute,Hak
-hakai_DE138N1,2015-05-28,,,Turn Island,,,Hakai Institute,Hak
+hakai_DE138N1,2015-05-28,BA/DI border,,Turn Island,,,Hakai Institute,Hak
 hakai_DE139N1,2015-05-28,Discovery Islands,3_2,Okisollo Channel,50.30884,-125.32275,Hakai Institute,Hak
 hakai_DE140N1,2015-05-30,Discovery Islands,3_2,Gowlland Harbour,50.10015,-125.27265,Hakai Institute,Hak
 hakai_DE143N1,2015-05-31,Discovery Islands,3_2,Calm Channel,50.31763,-125.04942,Hakai Institute,Hak
 hakai_DE145N1,2015-05-31,Discovery Islands,3_2,Kinghorn Island,50.06119,-124.87916,Hakai Institute,Hak
-hakai_DE146N1,2015-05-31,,,Hurtado Point,,,Hakai Institute,Hak
-hakai_DE148N1,2015-05-31,,,Sutil Narrows,,,Hakai Institute,Hak
+hakai_DE146N1,2015-05-31,BA/DI border,,Hurtado Point,,,Hakai Institute,Hak
+hakai_DE148N1,2015-05-31,BA/DI border,,Sutil Narrows,,,Hakai Institute,Hak
 hakai_DE149N1,2015-06-01,Discovery Islands,3_2,Hall Point,50.44527,-125.2774,Hakai Institute,Hak
-hakai_DE150N2,2015-06-01,,,Turn Island,,,Hakai Institute,Hak
-hakai_DE150N1,2015-06-01,,,Turn Island,,,Hakai Institute,Hak
+hakai_DE150N2,2015-06-01,BA/DI border,,Turn Island,,,Hakai Institute,Hak
+hakai_DE150N1,2015-06-01,BA/DI border,,Turn Island,,,Hakai Institute,Hak
 hakai_DE150N3,2015-06-01,Discovery Islands,3_2,Turn Island,50.34762,-125.45358,Hakai Institute,Hak
 hakai_DE151N1,2015-06-01,Discovery Islands,3_2,Okisollo Channel,50.30492,-125.33058,Hakai Institute,Hak
-hakai_DE152N2,2015-06-03,,,Hall Point,,,Hakai Institute,Hak
-hakai_DE152N1,2015-06-03,,,Hall Point,,,Hakai Institute,Hak
+hakai_DE152N2,2015-06-03,BA/DI border,,Hall Point,,,Hakai Institute,Hak
+hakai_DE152N1,2015-06-03,BA/DI border,,Hall Point,,,Hakai Institute,Hak
 hakai_DE152N3,2015-06-03,Discovery Islands,3_2,Hall Point,50.44217,-125.27406,Hakai Institute,Hak
-hakai_DE153N1,2015-06-03,,,Turn Island,,,Hakai Institute,Hak
+hakai_DE153N1,2015-06-03,BA/DI border,,Turn Island,,,Hakai Institute,Hak
 hakai_DE153N2,2015-06-03,Discovery Islands,3_2,Turn Island,50.34851,-125.44831,Hakai Institute,Hak
 hakai_DE154N1,2015-06-03,Discovery Islands,3_2,Okisollo Channel,50.30759,-125.32969,Hakai Institute,Hak
 hakai_DE155N1,2015-06-04,Discovery Islands,3_2,Calm Channel,50.31954,-125.04247,Hakai Institute,Hak
-hakai_DE158N1,2015-06-04,,,Gowlland Harbour,,,Hakai Institute,Hak
+hakai_DE158N1,2015-06-04,BA/DI border,,Gowlland Harbour,,,Hakai Institute,Hak
 hakai_DE158N2,2015-06-04,Discovery Islands,3_2,Gowlland Harbour,50.07966,-125.24845,Hakai Institute,Hak
 hakai_DE160N1,2015-06-05,Discovery Islands,3_2,Hall Point,50.44342,-125.27904,Hakai Institute,Hak
 hakai_DE162N1,2015-06-05,Discovery Islands,3_2,Okisollo Channel,50.30771,-125.32864,Hakai Institute,Hak
 hakai_DE163N1,2015-06-05,Discovery Islands,3_2,Hoskyn Channel,50.19112,-125.14202,Hakai Institute,Hak
-hakai_DE164N1,2015-06-06,,,Calm Channel,,,Hakai Institute,Hak
+hakai_DE164N1,2015-06-06,BA/DI border,,Calm Channel,,,Hakai Institute,Hak
 hakai_DE168N1,2015-06-07,Discovery Islands,3_2,Okisollo Channel,50.30812,-125.3269,Hakai Institute,Hak
-hakai_DE169N1,2015-06-07,,,Hoskyn Channel,,,Hakai Institute,Hak
+hakai_DE169N1,2015-06-07,BA/DI border,,Hoskyn Channel,,,Hakai Institute,Hak
 hakai_DE169N2,2015-06-07,Discovery Islands,3_2,Hoskyn Channel,50.1915,-125.14292,Hakai Institute,Hak
-hakai_DE170N1,2015-06-09,,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE170N1,2015-06-09,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
 hakai_DE170N2,2015-06-09,Discovery Islands,3_2,Okisollo Channel,50.30734,-125.33514,Hakai Institute,Hak
-hakai_DE171N1,2015-06-09,,,Calm Channel,,,Hakai Institute,Hak
-hakai_DE171N2,2015-06-09,,,Calm Channel,,,Hakai Institute,Hak
+hakai_DE171N1,2015-06-09,BA/DI border,,Calm Channel,,,Hakai Institute,Hak
+hakai_DE171N2,2015-06-09,BA/DI border,,Calm Channel,,,Hakai Institute,Hak
 hakai_DE173N1,2015-06-09,Discovery Islands,3_2,Hoskyn Channel,50.19077,-125.14249,Hakai Institute,Hak
 hakai_DE174N1,2015-06-11,Discovery Islands,3_2,Okisollo Channel,50.30806,-125.32972,Hakai Institute,Hak
 hakai_DE175N1,2015-06-11,Discovery Islands,3_2,Hoskyn Channel,50.19017,-125.14437,Hakai Institute,Hak
-hakai_DE179N1,2015-06-13,,,Lewis Channel,,,Hakai Institute,Hak
+hakai_DE179N1,2015-06-13,BA/DI border,,Lewis Channel,,,Hakai Institute,Hak
 hakai_DE182N1,2015-06-13,Discovery Islands,3_2,Hoskyn Channel,50.19051,-125.1444,Hakai Institute,Hak
-hakai_DE183N1,2015-06-14,,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE183N1,2015-06-14,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
 hakai_DE183N2,2015-06-14,Discovery Islands,3_2,Okisollo Channel,50.30767,-125.33023,Hakai Institute,Hak
 hakai_DE184N1,2015-06-14,Discovery Islands,3_2,Turn Island,50.34741,-125.45333,Hakai Institute,Hak
-hakai_DE185N1,2015-06-14,,,Hall Point,,,Hakai Institute,Hak
-hakai_DE185N2,2015-06-14,,,Hall Point,,,Hakai Institute,Hak
-hakai_DE186N1,2015-06-15,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_DE189N1,2015-06-15,,,Hoskyn Channel,,,Hakai Institute,Hak
-hakai_DE190N1,2015-06-16,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_DE192N2,2015-06-16,,,Turn Island,,,Hakai Institute,Hak
-hakai_DE192N1,2015-06-16,,,Turn Island,,,Hakai Institute,Hak
+hakai_DE185N1,2015-06-14,BA/DI border,,Hall Point,,,Hakai Institute,Hak
+hakai_DE185N2,2015-06-14,BA/DI border,,Hall Point,,,Hakai Institute,Hak
+hakai_DE186N1,2015-06-15,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE189N1,2015-06-15,BA/DI border,,Hoskyn Channel,,,Hakai Institute,Hak
+hakai_DE190N1,2015-06-16,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE192N2,2015-06-16,BA/DI border,,Turn Island,,,Hakai Institute,Hak
+hakai_DE192N1,2015-06-16,BA/DI border,,Turn Island,,,Hakai Institute,Hak
 hakai_DE192N3,2015-06-16,Discovery Islands,3_2,Turn Island,50.34866,-125.44482,Hakai Institute,Hak
-hakai_DE193N1,2015-06-16,,,Hoskyn Channel,,,Hakai Institute,Hak
+hakai_DE193N1,2015-06-16,BA/DI border,,Hoskyn Channel,,,Hakai Institute,Hak
 hakai_DE194N1,2015-06-17,Discovery Islands,3_2,Calm Channel,50.32119,-125.03856,Hakai Institute,Hak
-hakai_DE195N1,2015-06-17,,,Lewis Channel,,,Hakai Institute,Hak
-hakai_DE198N1,2015-06-18,,,Turn Island,,,Hakai Institute,Hak
+hakai_DE195N1,2015-06-17,BA/DI border,,Lewis Channel,,,Hakai Institute,Hak
+hakai_DE198N1,2015-06-18,BA/DI border,,Turn Island,,,Hakai Institute,Hak
 hakai_DE198N2,2015-06-18,Discovery Islands,3_2,Turn Island,50.34829,-125.45001,Hakai Institute,Hak
 hakai_DE199N1,2015-06-18,Discovery Islands,3_2,Okisollo Channel,50.30819,-125.32694,Hakai Institute,Hak
 hakai_DE201N1,2015-06-19,Discovery Islands,3_2,Gowlland Harbour,50.09809,-125.27142,Hakai Institute,Hak
-hakai_DE205N1,2015-06-20,,,Turn Island,,,Hakai Institute,Hak
+hakai_DE205N1,2015-06-20,BA/DI border,,Turn Island,,,Hakai Institute,Hak
 hakai_DE205N2,2015-06-20,Discovery Islands,3_2,Turn Island,50.34758,-125.4553,Hakai Institute,Hak
 hakai_DE206N1,2015-06-20,Discovery Islands,3_2,Okisollo Channel,50.30597,-125.33588,Hakai Institute,Hak
-hakai_DE207N1,2015-06-21,,,Hurtado Point,,,Hakai Institute,Hak
-hakai_DE212N1,2015-06-22,,,Hall Point,,,Hakai Institute,Hak
+hakai_DE207N1,2015-06-21,BA/DI border,,Hurtado Point,,,Hakai Institute,Hak
+hakai_DE212N1,2015-06-22,BA/DI border,,Hall Point,,,Hakai Institute,Hak
 hakai_DE212N2,2015-06-22,Discovery Islands,3_2,Hall Point,50.44949,-125.32427,Hakai Institute,Hak
-hakai_DE213N1,2015-06-22,,,Turn Island,,,Hakai Institute,Hak
+hakai_DE213N1,2015-06-22,BA/DI border,,Turn Island,,,Hakai Institute,Hak
 hakai_DE214N1,2015-06-22,Discovery Islands,3_2,Okisollo Channel,50.0,-125.0,Hakai Institute,Hak
-hakai_DE216N1,2015-06-23,,,Francisco Point,,,Hakai Institute,Hak
-hakai_DE217N1,2015-06-23,,,Gowlland Harbour,,,Hakai Institute,Hak
+hakai_DE216N1,2015-06-23,BA/DI border,,Francisco Point,,,Hakai Institute,Hak
+hakai_DE217N1,2015-06-23,BA/DI border,,Gowlland Harbour,,,Hakai Institute,Hak
 hakai_DE217N2,2015-06-23,Discovery Islands,3_2,Gowlland Harbour,50.10264,-125.27585,Hakai Institute,Hak
 hakai_DE218N1,2015-06-24,Discovery Islands,3_2,Hall Point,50.44045,-125.27069,Hakai Institute,Hak
 hakai_DE219N1,2015-06-24,Discovery Islands,3_2,Turn Island,50.34969,-125.44451,Hakai Institute,Hak
 hakai_DE220N1,2015-06-24,Discovery Islands,3_2,Okisollo Channel,50.30698,-125.3259,Hakai Institute,Hak
 hakai_DE221N1,2015-06-27,Discovery Islands,3_2,Okisollo Channel,50.30702,-125.33509,Hakai Institute,Hak
-hakai_DE224N1,2015-06-29,,,Hall Point,,,Hakai Institute,Hak
+hakai_DE224N1,2015-06-29,BA/DI border,,Hall Point,,,Hakai Institute,Hak
 hakai_DE225N1,2015-06-29,Discovery Islands,3_2,Turn Island,50.34844,-125.44666,Hakai Institute,Hak
-hakai_DE226N1,2015-06-29,,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE226N1,2015-06-29,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
 hakai_DE226N2,2015-06-29,Discovery Islands,3_2,Okisollo Channel,50.30764,-125.33348,Hakai Institute,Hak
-hakai_DE231N1,2015-07-02,,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE231N1,2015-07-02,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
 hakai_DE231N2,2015-07-02,Discovery Islands,3_2,Okisollo Channel,50.30377,-125.33768,Hakai Institute,Hak
 hakai_DE234N1,2015-07-05,Discovery Islands,3_2,Turn Island,50.34874,-125.44617,Hakai Institute,Hak
 hakai_DE236N1,2015-07-06,Discovery Islands,3_2,Okisollo Channel,50.30641,-125.31584,Hakai Institute,Hak
 hakai_DE237N1,2015-07-06,Discovery Islands,3_2,Turn Island,50.34825,-125.44895,Hakai Institute,Hak
 hakai_DE238N1,2015-07-07,Discovery Islands,3_2,Turn Island,50.34797,-125.45584,Hakai Institute,Hak
-hakai_DE239N1,2015-07-07,,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE239N1,2015-07-07,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
 hakai_DE239N2,2015-07-07,Discovery Islands,3_2,Okisollo Channel,50.3079,-125.32955,Hakai Institute,Hak
 hakai_DE240N1,2015-07-14,Discovery Islands,3_2,Okisollo Channel,50.30717,-125.33303,Hakai Institute,Hak
 hakai_DE241N1,2015-07-14,Discovery Islands,3_2,Turn Island,50.34811,-125.454,Hakai Institute,Hak
@@ -16310,7 +16310,7 @@ hakai_DE365N1,2017-05-25,Discovery Islands,3_2,Okisollo Channel,50.309067,-125.3
 hakai_DE366N1,2017-05-26,Discovery Islands,3_2,Penn Islands,50.17999062,-125.0189455,Hakai Institute,Hak
 hakai_DE367N1,2017-05-29,Discovery Islands,3_2,Okisollo Channel,50.309278,-125.320699,Hakai Institute,Hak
 hakai_DE368N1,2017-05-31,Discovery Islands,3_2,Raza Island,50.301803,-125.03049,Hakai Institute,Hak
-hakai_DE436N1,2017-06-01,,,Calm Channel,,,Hakai Institute,Hak
+hakai_DE436N1,2017-06-01,BA/DI border,,Calm Channel,,,Hakai Institute,Hak
 hakai_DE369N1,2017-06-01,Discovery Islands,3_2,Raza Island,50.305482,-125.024803,Hakai Institute,Hak
 hakai_DE370N1,2017-06-05,Discovery Islands,3_2,Granite Point,50.274875,-125.376937,Hakai Institute,Hak
 hakai_DE371N2,2017-06-07,Discovery Islands,3_2,Okisollo Channel,50.306252,-125.336051,Hakai Institute,Hak
@@ -16319,21 +16319,21 @@ hakai_DE372N2,2017-06-12,Discovery Islands,3_2,Okisollo Channel,50.307811,-125.3
 hakai_DE372N1,2017-06-12,Discovery Islands,3_2,Okisollo Channel,50.3041,-125.33841,Hakai Institute,Hak
 hakai_DE376N2,2017-06-13,Discovery Islands,3_2,Granite Point,50.274783,-125.377569,Hakai Institute,Hak
 hakai_DE376N1,2017-06-13,Discovery Islands,3_2,Granite Point,50.274596,-125.377527,Hakai Institute,Hak
-hakai_DE454AN5,2017-06-14,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_DE454AN4,2017-06-14,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_DE454AN3,2017-06-14,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_DE454AN2,2017-06-14,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_DE454AN1,2017-06-14,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_DE454BN8,2017-06-15,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_DE454BN7,2017-06-15,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_DE454BN6,2017-06-15,,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE454AN5,2017-06-14,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE454AN4,2017-06-14,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE454AN3,2017-06-14,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE454AN2,2017-06-14,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE454AN1,2017-06-14,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE454BN8,2017-06-15,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE454BN7,2017-06-15,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE454BN6,2017-06-15,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
 hakai_DE377N1,2017-06-19,Discovery Islands,3_2,McMullen Point,50.236254,-125.398402,Hakai Institute,Hak
-hakai_DE382N1,2017-06-19,,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE382N1,2017-06-19,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
 hakai_DE378N1,2017-06-20,Discovery Islands,3_2,Okisollo Channel,50.304561,-125.337253,Hakai Institute,Hak
-hakai_DE383N1,2017-06-21,,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE383N1,2017-06-21,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
 hakai_DE373N2,2017-06-26,Discovery Islands,3_2,Okisollo Channel,50.297362,-125.339472,Hakai Institute,Hak
 hakai_DE373N1,2017-06-26,Discovery Islands,3_2,Okisollo Channel,50.29725,-125.338485,Hakai Institute,Hak
-hakai_DE384N1,2017-06-26,,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE384N1,2017-06-26,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
 hakai_DE374N1,2017-06-28,Discovery Islands,3_2,Hall Point,50.434701,-125.26607,Hakai Institute,Hak
 hakai_DE457N3,2017-06-29,Discovery Islands,3_2,Okisollo Channel,50.297141,-125.340397,Hakai Institute,Hak
 hakai_DE457N2,2017-06-29,Discovery Islands,3_2,Okisollo Channel,50.297141,-125.340397,Hakai Institute,Hak
@@ -16354,240 +16354,240 @@ hakai_DE379N1,2017-07-04,Discovery Islands,3_2,McMullen Point,50.237837,-125.396
 hakai_DE375N1,2017-07-04,Discovery Islands,3_2,Granite Point,50.27485,-125.377707,Hakai Institute,Hak
 hakai_DE380N1,2017-07-05,Discovery Islands,3_2,Okisollo Channel,50.307981,-125.320206,Hakai Institute,Hak
 hakai_DE381N1,2017-07-10,Discovery Islands,3_2,Okisollo Channel,50.305134,-125.337052,Hakai Institute,Hak
-hakai_DE455AN4,2017-07-12,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_DE455AN3,2017-07-12,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_DE455AN2,2017-07-12,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_DE455AN1,2017-07-12,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_DE455BN8,2017-07-13,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_DE455BN7,2017-07-13,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_DE455BN6,2017-07-13,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_DE455BN5,2017-07-13,,,Okisollo Channel,,,Hakai Institute,Hak
-hakai_JE100N1,2015-05-20,,,Cracroft Point,,,Hakai Institute,Hak
-hakai_JE101N1,2015-05-20,,,Stimpson Point,50.50535,-126.24163,Hakai Institute,Hak
-hakai_JE102N1,2015-05-21,,,Blenkinsop Bay,,,Hakai Institute,Hak
-hakai_JE102N2,2015-05-21,,,Blenkinsop Bay,50.47479,-126.03259,Hakai Institute,Hak
-hakai_JE103N1,2015-05-21,,,Forward Bay,,,Hakai Institute,Hak
-hakai_JE103N2,2015-05-21,,,Forward Bay,,,Hakai Institute,Hak
-hakai_JE104N1,2015-05-22,,,South Mouth,50.45614,-126.11933,Hakai Institute,Hak
-hakai_JE105N1,2015-05-22,,,Naka Creek,,,Hakai Institute,Hak
-hakai_JE105N2,2015-05-22,,,Naka Creek,50.48078,-126.41037,Hakai Institute,Hak
-hakai_JE106N3,2015-05-22,,,Forward Bay,,,Hakai Institute,Hak
-hakai_JE106N2,2015-05-22,,,Forward Bay,,,Hakai Institute,Hak
-hakai_JE106N1,2015-05-22,,,Forward Bay,,,Hakai Institute,Hak
-hakai_JE106N4,2015-05-22,,,Forward Bay,50.52222,-126.39167,Hakai Institute,Hak
-hakai_JE107N1,2015-05-23,,,Cracroft Point,,,Hakai Institute,Hak
+hakai_DE455AN4,2017-07-12,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE455AN3,2017-07-12,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE455AN2,2017-07-12,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE455AN1,2017-07-12,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE455BN8,2017-07-13,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE455BN7,2017-07-13,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE455BN6,2017-07-13,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE455BN5,2017-07-13,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_JE100N1,2015-05-20,BA/DI border,,Cracroft Point,,,Hakai Institute,Hak
+hakai_JE101N1,2015-05-20,BA/DI border,,Stimpson Point,50.50535,-126.24163,Hakai Institute,Hak
+hakai_JE102N1,2015-05-21,BA/DI border,,Blenkinsop Bay,,,Hakai Institute,Hak
+hakai_JE102N2,2015-05-21,BA/DI border,,Blenkinsop Bay,50.47479,-126.03259,Hakai Institute,Hak
+hakai_JE103N1,2015-05-21,BA/DI border,,Forward Bay,,,Hakai Institute,Hak
+hakai_JE103N2,2015-05-21,BA/DI border,,Forward Bay,,,Hakai Institute,Hak
+hakai_JE104N1,2015-05-22,BA/DI border,,South Mouth,50.45614,-126.11933,Hakai Institute,Hak
+hakai_JE105N1,2015-05-22,BA/DI border,,Naka Creek,,,Hakai Institute,Hak
+hakai_JE105N2,2015-05-22,BA/DI border,,Naka Creek,50.48078,-126.41037,Hakai Institute,Hak
+hakai_JE106N3,2015-05-22,BA/DI border,,Forward Bay,,,Hakai Institute,Hak
+hakai_JE106N2,2015-05-22,BA/DI border,,Forward Bay,,,Hakai Institute,Hak
+hakai_JE106N1,2015-05-22,BA/DI border,,Forward Bay,,,Hakai Institute,Hak
+hakai_JE106N4,2015-05-22,BA/DI border,,Forward Bay,50.52222,-126.39167,Hakai Institute,Hak
+hakai_JE107N1,2015-05-23,BA/DI border,,Cracroft Point,,,Hakai Institute,Hak
 hakai_JE107N2,2015-05-23,Broughton Archipelago,3_3,Cracroft Point,50.54648,-126.67096,Hakai Institute,Hak
-hakai_JE108N1,2015-05-23,,,Bauza Cove,,,Hakai Institute,Hak
+hakai_JE108N1,2015-05-23,BA/DI border,,Bauza Cove,,,Hakai Institute,Hak
 hakai_JE108N2,2015-05-23,Broughton Archipelago,3_3,Bauza Cove,50.54039,-126.78096,Hakai Institute,Hak
-hakai_JE109N2,2015-05-23,,,Hanson South,,,Hakai Institute,Hak
-hakai_JE109N1,2015-05-23,,,Hanson South,,,Hakai Institute,Hak
+hakai_JE109N2,2015-05-23,BA/DI border,,Hanson South,,,Hakai Institute,Hak
+hakai_JE109N1,2015-05-23,BA/DI border,,Hanson South,,,Hakai Institute,Hak
 hakai_JE109N3,2015-05-23,Broughton Archipelago,3_3,Hanson South,50.55787,-126.73532,Hakai Institute,Hak
-hakai_JE110N1,2015-05-24,,,Swanson Island,,,Hakai Institute,Hak
+hakai_JE110N1,2015-05-24,BA/DI border,,Swanson Island,,,Hakai Institute,Hak
 hakai_JE110N2,2015-05-24,Broughton Archipelago,3_3,Swanson Island,50.60101,-126.70394,Hakai Institute,Hak
-hakai_JE112N1,2015-05-24,,,Blenkinsop Bay,50.47696,-126.0273,Hakai Institute,Hak
-hakai_JE113N1,2015-05-25,,,Stimpson Point,50.49853,-126.21348,Hakai Institute,Hak
-hakai_JE114N1,2015-05-25,,,Forward Bay,50.52363,-126.39046,Hakai Institute,Hak
-hakai_JE115N1,2015-05-25,,,Naka Creek,50.48103,-126.41291,Hakai Institute,Hak
-hakai_JE116N1,2015-05-26,,,South Mouth,50.45622,-126.11838,Hakai Institute,Hak
-hakai_JE117N1,2015-05-26,,,Cracroft Point,,,Hakai Institute,Hak
+hakai_JE112N1,2015-05-24,BA/DI border,,Blenkinsop Bay,50.47696,-126.0273,Hakai Institute,Hak
+hakai_JE113N1,2015-05-25,BA/DI border,,Stimpson Point,50.49853,-126.21348,Hakai Institute,Hak
+hakai_JE114N1,2015-05-25,BA/DI border,,Forward Bay,50.52363,-126.39046,Hakai Institute,Hak
+hakai_JE115N1,2015-05-25,BA/DI border,,Naka Creek,50.48103,-126.41291,Hakai Institute,Hak
+hakai_JE116N1,2015-05-26,BA/DI border,,South Mouth,50.45622,-126.11838,Hakai Institute,Hak
+hakai_JE117N1,2015-05-26,BA/DI border,,Cracroft Point,,,Hakai Institute,Hak
 hakai_JE117N2,2015-05-26,Broughton Archipelago,3_3,Cracroft Point,50.54672,-126.67256,Hakai Institute,Hak
 hakai_JE118N1,2015-05-26,Broughton Archipelago,3_3,Bauza Cove,50.53989,-126.78256,Hakai Institute,Hak
 hakai_JE119N1,2015-05-27,Broughton Archipelago,3_3,Hanson South,50.55951,-126.75326,Hakai Institute,Hak
-hakai_JE122N1,2015-05-27,,,Bauza Cove,,,Hakai Institute,Hak
+hakai_JE122N1,2015-05-27,BA/DI border,,Bauza Cove,,,Hakai Institute,Hak
 hakai_JE122N2,2015-05-27,Broughton Archipelago,3_3,Bauza Cove,50.53957,-126.7781,Hakai Institute,Hak
-hakai_JE123N2,2015-05-28,,,Hanson North,,,Hakai Institute,Hak
-hakai_JE123N1,2015-05-28,,,Hanson North,,,Hakai Institute,Hak
+hakai_JE123N2,2015-05-28,BA/DI border,,Hanson North,,,Hakai Institute,Hak
+hakai_JE123N1,2015-05-28,BA/DI border,,Hanson North,,,Hakai Institute,Hak
 hakai_JE123N3,2015-05-28,Broughton Archipelago,3_3,Hanson North,50.57078,-126.70066,Hakai Institute,Hak
-hakai_JE126N1,2015-05-29,,,Blenkinsop Bay,50.4838,-126.01069,Hakai Institute,Hak
-hakai_JE127N1,2015-05-29,,,Stimpson Point,,,Hakai Institute,Hak
-hakai_JE128N1,2015-05-30,,,Stimpson Point,,,Hakai Institute,Hak
-hakai_JE128N2,2015-05-30,,,Stimpson Point,50.50733,-126.24336,Hakai Institute,Hak
-hakai_JE129N2,2015-05-30,,,South Mouth,,,Hakai Institute,Hak
-hakai_JE129N1,2015-05-30,,,South Mouth,,,Hakai Institute,Hak
-hakai_JE129N3,2015-05-30,,,South Mouth,50.45679,-126.16458,Hakai Institute,Hak
-hakai_JE131N1,2015-05-30,,,Naka Creek,50.48405,-126.3987,Hakai Institute,Hak
-hakai_JE132N1,2015-05-31,,,Forward Bay,50.52152,-126.40028,Hakai Institute,Hak
+hakai_JE126N1,2015-05-29,BA/DI border,,Blenkinsop Bay,50.4838,-126.01069,Hakai Institute,Hak
+hakai_JE127N1,2015-05-29,BA/DI border,,Stimpson Point,,,Hakai Institute,Hak
+hakai_JE128N1,2015-05-30,BA/DI border,,Stimpson Point,,,Hakai Institute,Hak
+hakai_JE128N2,2015-05-30,BA/DI border,,Stimpson Point,50.50733,-126.24336,Hakai Institute,Hak
+hakai_JE129N2,2015-05-30,BA/DI border,,South Mouth,,,Hakai Institute,Hak
+hakai_JE129N1,2015-05-30,BA/DI border,,South Mouth,,,Hakai Institute,Hak
+hakai_JE129N3,2015-05-30,BA/DI border,,South Mouth,50.45679,-126.16458,Hakai Institute,Hak
+hakai_JE131N1,2015-05-30,BA/DI border,,Naka Creek,50.48405,-126.3987,Hakai Institute,Hak
+hakai_JE132N1,2015-05-31,BA/DI border,,Forward Bay,50.52152,-126.40028,Hakai Institute,Hak
 hakai_JE133N1,2015-05-31,Broughton Archipelago,3_3,Cracroft Point,50.54605,-126.66218,Hakai Institute,Hak
 hakai_JE134N1,2015-05-31,Broughton Archipelago,3_3,Bauza Cove,50.53808,-126.77494,Hakai Institute,Hak
 hakai_JE136N1,2015-06-01,Broughton Archipelago,3_3,Swanson Island,50.60051,-126.70319,Hakai Institute,Hak
 hakai_JE137N1,2015-06-01,Broughton Archipelago,3_3,Hanson North,50.57871,-126.72129,Hakai Institute,Hak
 hakai_JE138N1,2015-06-01,Broughton Archipelago,3_3,Hanson South,50.55853,-126.73145,Hakai Institute,Hak
-hakai_JE139N1,2015-06-02,,,Stimpson Point,50.50763,-126.24218,Hakai Institute,Hak
-hakai_JE140N1,2015-06-02,,,South Mouth,50.45649,-126.16619,Hakai Institute,Hak
-hakai_JE141N1,2015-06-02,,,Blenkinsop Bay,,,Hakai Institute,Hak
-hakai_JE142N1,2015-06-03,,,Blenkinsop Bay,50.48189,-126.01128,Hakai Institute,Hak
-hakai_JE143N1,2015-06-03,,,Naka Creek,50.48072,-126.40915,Hakai Institute,Hak
+hakai_JE139N1,2015-06-02,BA/DI border,,Stimpson Point,50.50763,-126.24218,Hakai Institute,Hak
+hakai_JE140N1,2015-06-02,BA/DI border,,South Mouth,50.45649,-126.16619,Hakai Institute,Hak
+hakai_JE141N1,2015-06-02,BA/DI border,,Blenkinsop Bay,,,Hakai Institute,Hak
+hakai_JE142N1,2015-06-03,BA/DI border,,Blenkinsop Bay,50.48189,-126.01128,Hakai Institute,Hak
+hakai_JE143N1,2015-06-03,BA/DI border,,Naka Creek,50.48072,-126.40915,Hakai Institute,Hak
 hakai_JE145N1,2015-06-03,Broughton Archipelago,3_3,Bauza Cove,50.53944,-126.78254,Hakai Institute,Hak
-hakai_JE146N1,2015-06-04,,,Forward Bay,50.52232,-126.39556,Hakai Institute,Hak
+hakai_JE146N1,2015-06-04,BA/DI border,,Forward Bay,50.52232,-126.39556,Hakai Institute,Hak
 hakai_JE147N1,2015-06-04,Broughton Archipelago,3_3,Cracroft Point,50.54216,-126.63511,Hakai Institute,Hak
-hakai_JE148N2,2015-06-04,,,Swanson Island,,,Hakai Institute,Hak
-hakai_JE148N1,2015-06-04,,,Swanson Island,,,Hakai Institute,Hak
+hakai_JE148N2,2015-06-04,BA/DI border,,Swanson Island,,,Hakai Institute,Hak
+hakai_JE148N1,2015-06-04,BA/DI border,,Swanson Island,,,Hakai Institute,Hak
 hakai_JE148N3,2015-06-04,Broughton Archipelago,3_3,Swanson Island,50.5956,-126.69022,Hakai Institute,Hak
 hakai_JE149N1,2015-06-05,Broughton Archipelago,3_3,Hanson South,50.55855,-126.73248,Hakai Institute,Hak
 hakai_JE150N1,2015-06-05,Broughton Archipelago,3_3,Hanson North,50.56784,-126.69728,Hakai Institute,Hak
-hakai_JE152N1,2015-06-06,,,South Mouth,50.45987,-126.16961,Hakai Institute,Hak
-hakai_JE153N1,2015-06-06,,,Blenkinsop Bay,,,Hakai Institute,Hak
-hakai_JE154N1,2015-06-07,,,Blenkinsop Bay,50.47794,-126.02803,Hakai Institute,Hak
-hakai_JE155N1,2015-06-07,,,Stimpson Point,50.49983,-126.20581,Hakai Institute,Hak
-hakai_JE157N1,2015-06-07,,,Naka Creek,,,Hakai Institute,Hak
-hakai_JE157N2,2015-06-07,,,Naka Creek,50.47923,-126.41485,Hakai Institute,Hak
+hakai_JE152N1,2015-06-06,BA/DI border,,South Mouth,50.45987,-126.16961,Hakai Institute,Hak
+hakai_JE153N1,2015-06-06,BA/DI border,,Blenkinsop Bay,,,Hakai Institute,Hak
+hakai_JE154N1,2015-06-07,BA/DI border,,Blenkinsop Bay,50.47794,-126.02803,Hakai Institute,Hak
+hakai_JE155N1,2015-06-07,BA/DI border,,Stimpson Point,50.49983,-126.20581,Hakai Institute,Hak
+hakai_JE157N1,2015-06-07,BA/DI border,,Naka Creek,,,Hakai Institute,Hak
+hakai_JE157N2,2015-06-07,BA/DI border,,Naka Creek,50.47923,-126.41485,Hakai Institute,Hak
 hakai_JE159N1,2015-06-07,Broughton Archipelago,3_3,Bauza Cove,50.539,-126.7781,Hakai Institute,Hak
-hakai_JE160N1,2015-06-08,,,Forward Bay,50.52411,-126.39107,Hakai Institute,Hak
+hakai_JE160N1,2015-06-08,BA/DI border,,Forward Bay,50.52411,-126.39107,Hakai Institute,Hak
 hakai_JE161N1,2015-06-08,Broughton Archipelago,3_3,Cracroft Point,50.54418,-126.63202,Hakai Institute,Hak
 hakai_JE162N1,2015-06-08,Broughton Archipelago,3_3,Hanson North,50.57687,-126.72184,Hakai Institute,Hak
 hakai_JE163N1,2015-06-09,Broughton Archipelago,3_3,Swanson Island,50.59537,-126.69062,Hakai Institute,Hak
-hakai_JE165N1,2015-06-11,,,Stimpson Point,50.50008,-126.20937,Hakai Institute,Hak
-hakai_JE166N1,2015-06-11,,,South Mouth,50.45951,-126.16958,Hakai Institute,Hak
-hakai_JE168N1,2015-06-12,,,Blenkinsop Bay,50.47959,-126.02629,Hakai Institute,Hak
-hakai_JE171N1,2015-06-13,,,Bauza Cove,,,Hakai Institute,Hak
+hakai_JE165N1,2015-06-11,BA/DI border,,Stimpson Point,50.50008,-126.20937,Hakai Institute,Hak
+hakai_JE166N1,2015-06-11,BA/DI border,,South Mouth,50.45951,-126.16958,Hakai Institute,Hak
+hakai_JE168N1,2015-06-12,BA/DI border,,Blenkinsop Bay,50.47959,-126.02629,Hakai Institute,Hak
+hakai_JE171N1,2015-06-13,BA/DI border,,Bauza Cove,,,Hakai Institute,Hak
 hakai_JE171N2,2015-06-13,Broughton Archipelago,3_3,Bauza Cove,50.53988,-126.78291,Hakai Institute,Hak
-hakai_JE172N3,2015-06-14,,,Blenkinsop Bay,,,Hakai Institute,Hak
-hakai_JE172N2,2015-06-14,,,Blenkinsop Bay,,,Hakai Institute,Hak
-hakai_JE172N1,2015-06-14,,,Blenkinsop Bay,,,Hakai Institute,Hak
-hakai_JE172N4,2015-06-14,,,Blenkinsop Bay,50.47679,-126.02843,Hakai Institute,Hak
-hakai_JE173N1,2015-06-14,,,South Mouth,50.45698,-126.16944,Hakai Institute,Hak
-hakai_JE174N1,2015-06-14,,,Stimpson Point,50.49881,-126.21349,Hakai Institute,Hak
-hakai_JE175N1,2015-06-15,,,Forward Bay,50.52618,-126.38632,Hakai Institute,Hak
-hakai_JE176N1,2015-06-15,,,Naka Creek,,,Hakai Institute,Hak
-hakai_JE176N2,2015-06-15,,,Naka Creek,50.48035,-126.41265,Hakai Institute,Hak
-hakai_JE177N1,2015-06-15,,,Cracroft Point,,,Hakai Institute,Hak
+hakai_JE172N3,2015-06-14,BA/DI border,,Blenkinsop Bay,,,Hakai Institute,Hak
+hakai_JE172N2,2015-06-14,BA/DI border,,Blenkinsop Bay,,,Hakai Institute,Hak
+hakai_JE172N1,2015-06-14,BA/DI border,,Blenkinsop Bay,,,Hakai Institute,Hak
+hakai_JE172N4,2015-06-14,BA/DI border,,Blenkinsop Bay,50.47679,-126.02843,Hakai Institute,Hak
+hakai_JE173N1,2015-06-14,BA/DI border,,South Mouth,50.45698,-126.16944,Hakai Institute,Hak
+hakai_JE174N1,2015-06-14,BA/DI border,,Stimpson Point,50.49881,-126.21349,Hakai Institute,Hak
+hakai_JE175N1,2015-06-15,BA/DI border,,Forward Bay,50.52618,-126.38632,Hakai Institute,Hak
+hakai_JE176N1,2015-06-15,BA/DI border,,Naka Creek,,,Hakai Institute,Hak
+hakai_JE176N2,2015-06-15,BA/DI border,,Naka Creek,50.48035,-126.41265,Hakai Institute,Hak
+hakai_JE177N1,2015-06-15,BA/DI border,,Cracroft Point,,,Hakai Institute,Hak
 hakai_JE177N2,2015-06-15,Broughton Archipelago,3_3,Cracroft Point,50.54719,-126.67487,Hakai Institute,Hak
 hakai_JE178N1,2015-06-15,Broughton Archipelago,3_3,Hanson South,50.55792,-126.73617,Hakai Institute,Hak
 hakai_JE179N1,2015-06-16,Broughton Archipelago,3_3,Hanson North,50.58185,-126.71983,Hakai Institute,Hak
-hakai_JE180N1,2015-06-16,,,Swanson Island,,,Hakai Institute,Hak
+hakai_JE180N1,2015-06-16,BA/DI border,,Swanson Island,,,Hakai Institute,Hak
 hakai_JE180N2,2015-06-16,Broughton Archipelago,3_3,Swanson Island,50.59549,-126.69036,Hakai Institute,Hak
-hakai_JE181N1,2015-06-16,,,Bauza Cove,,,Hakai Institute,Hak
+hakai_JE181N1,2015-06-16,BA/DI border,,Bauza Cove,,,Hakai Institute,Hak
 hakai_JE181N2,2015-06-16,Broughton Archipelago,3_3,Bauza Cove,50.54327,-126.81252,Hakai Institute,Hak
-hakai_JE182N1,2015-06-17,,,Forward Bay,50.52491,-126.38617,Hakai Institute,Hak
-hakai_JE183N1,2015-06-17,,,Naka Creek,50.47943,-126.41631,Hakai Institute,Hak
+hakai_JE182N1,2015-06-17,BA/DI border,,Forward Bay,50.52491,-126.38617,Hakai Institute,Hak
+hakai_JE183N1,2015-06-17,BA/DI border,,Naka Creek,50.47943,-126.41631,Hakai Institute,Hak
 hakai_JE184N1,2015-06-17,Broughton Archipelago,3_3,Cracroft Point,50.5463,-126.66727,Hakai Institute,Hak
-hakai_JE185N1,2015-06-18,,,Blenkinsop Bay,50.47909,-126.02584,Hakai Institute,Hak
-hakai_JE186N1,2015-06-18,,,South Mouth,50.45747,-126.16879,Hakai Institute,Hak
-hakai_JE187N1,2015-06-18,,,Stimpson Point,50.49921,-126.20961,Hakai Institute,Hak
+hakai_JE185N1,2015-06-18,BA/DI border,,Blenkinsop Bay,50.47909,-126.02584,Hakai Institute,Hak
+hakai_JE186N1,2015-06-18,BA/DI border,,South Mouth,50.45747,-126.16879,Hakai Institute,Hak
+hakai_JE187N1,2015-06-18,BA/DI border,,Stimpson Point,50.49921,-126.20961,Hakai Institute,Hak
 hakai_JE188N1,2015-06-18,Broughton Archipelago,3_3,Hanson North,50.58086,-126.72272,Hakai Institute,Hak
-hakai_JE189N1,2015-06-19,,,Bauza Cove,,,Hakai Institute,Hak
+hakai_JE189N1,2015-06-19,BA/DI border,,Bauza Cove,,,Hakai Institute,Hak
 hakai_JE189N2,2015-06-19,Broughton Archipelago,3_3,Bauza Cove,50.54362,-126.81951,Hakai Institute,Hak
 hakai_JE190N1,2015-06-19,Broughton Archipelago,3_3,Hanson South,50.55814,-126.73386,Hakai Institute,Hak
 hakai_JE191N1,2015-06-19,Broughton Archipelago,3_3,Swanson Island,50.60263,-126.70188,Hakai Institute,Hak
-hakai_JE192N1,2015-06-20,,,Forward Bay,50.5194,-126.40831,Hakai Institute,Hak
-hakai_JE193N1,2015-06-20,,,Naka Creek,50.48001,-126.41469,Hakai Institute,Hak
-hakai_JE195N1,2015-06-20,,,South Mouth,50.45804,-126.16997,Hakai Institute,Hak
-hakai_JE196N1,2015-06-21,,,Blenkinsop Bay,50.4763,-126.02838,Hakai Institute,Hak
-hakai_JE197N1,2015-06-21,,,Stimpson Point,50.49608,-126.21645,Hakai Institute,Hak
-hakai_JE198N1,2015-06-21,,,Hanson South,,,Hakai Institute,Hak
+hakai_JE192N1,2015-06-20,BA/DI border,,Forward Bay,50.5194,-126.40831,Hakai Institute,Hak
+hakai_JE193N1,2015-06-20,BA/DI border,,Naka Creek,50.48001,-126.41469,Hakai Institute,Hak
+hakai_JE195N1,2015-06-20,BA/DI border,,South Mouth,50.45804,-126.16997,Hakai Institute,Hak
+hakai_JE196N1,2015-06-21,BA/DI border,,Blenkinsop Bay,50.4763,-126.02838,Hakai Institute,Hak
+hakai_JE197N1,2015-06-21,BA/DI border,,Stimpson Point,50.49608,-126.21645,Hakai Institute,Hak
+hakai_JE198N1,2015-06-21,BA/DI border,,Hanson South,,,Hakai Institute,Hak
 hakai_JE198N2,2015-06-21,Broughton Archipelago,3_3,Hanson South,50.55821,-126.73327,Hakai Institute,Hak
-hakai_JE199N1,2015-06-23,,,Cracroft Point,,,Hakai Institute,Hak
+hakai_JE199N1,2015-06-23,BA/DI border,,Cracroft Point,,,Hakai Institute,Hak
 hakai_JE199N2,2015-06-23,Broughton Archipelago,3_3,Cracroft Point,50.54774,-126.67774,Hakai Institute,Hak
 hakai_JE200N1,2015-06-23,Broughton Archipelago,3_3,Hanson North,50.58209,-126.71978,Hakai Institute,Hak
-hakai_JE201N2,2015-06-23,,,Swanson Island,,,Hakai Institute,Hak
-hakai_JE201N1,2015-06-23,,,Swanson Island,,,Hakai Institute,Hak
+hakai_JE201N2,2015-06-23,BA/DI border,,Swanson Island,,,Hakai Institute,Hak
+hakai_JE201N1,2015-06-23,BA/DI border,,Swanson Island,,,Hakai Institute,Hak
 hakai_JE201N3,2015-06-23,Broughton Archipelago,3_3,Swanson Island,50.60237,-126.70219,Hakai Institute,Hak
 hakai_JE202N1,2015-06-23,Broughton Archipelago,3_3,Bauza Cove,50.54414,-126.81843,Hakai Institute,Hak
-hakai_JE203N1,2015-06-24,,,Blenkinsop Bay,50.47705,-126.02871,Hakai Institute,Hak
-hakai_JE204N1,2015-06-24,,,South Mouth,,,Hakai Institute,Hak
-hakai_JE204N2,2015-06-24,,,South Mouth,50.45524,-126.11718,Hakai Institute,Hak
-hakai_JE205N1,2015-06-24,,,Stimpson Point,50.49837,-126.21404,Hakai Institute,Hak
-hakai_JE206N1,2015-06-24,,,Naka Creek,,,Hakai Institute,Hak
-hakai_JE206N2,2015-06-24,,,Naka Creek,50.4787,-126.41567,Hakai Institute,Hak
-hakai_JE207N1,2015-06-27,,,Hanson South,,,Hakai Institute,Hak
+hakai_JE203N1,2015-06-24,BA/DI border,,Blenkinsop Bay,50.47705,-126.02871,Hakai Institute,Hak
+hakai_JE204N1,2015-06-24,BA/DI border,,South Mouth,,,Hakai Institute,Hak
+hakai_JE204N2,2015-06-24,BA/DI border,,South Mouth,50.45524,-126.11718,Hakai Institute,Hak
+hakai_JE205N1,2015-06-24,BA/DI border,,Stimpson Point,50.49837,-126.21404,Hakai Institute,Hak
+hakai_JE206N1,2015-06-24,BA/DI border,,Naka Creek,,,Hakai Institute,Hak
+hakai_JE206N2,2015-06-24,BA/DI border,,Naka Creek,50.4787,-126.41567,Hakai Institute,Hak
+hakai_JE207N1,2015-06-27,BA/DI border,,Hanson South,,,Hakai Institute,Hak
 hakai_JE207N2,2015-06-27,Broughton Archipelago,3_3,Hanson South,50.55961,-126.7542,Hakai Institute,Hak
-hakai_JE208N1,2015-06-27,,,Hanson North,,,Hakai Institute,Hak
+hakai_JE208N1,2015-06-27,BA/DI border,,Hanson North,,,Hakai Institute,Hak
 hakai_JE208N2,2015-06-27,Broughton Archipelago,3_3,Hanson North,50.58165,-126.71952,Hakai Institute,Hak
 hakai_JE209N1,2015-06-27,Broughton Archipelago,3_3,Bauza Cove,50.5438,-126.81988,Hakai Institute,Hak
-hakai_JE210N1,2015-06-28,,,Swanson Island,,,Hakai Institute,Hak
+hakai_JE210N1,2015-06-28,BA/DI border,,Swanson Island,,,Hakai Institute,Hak
 hakai_JE210N2,2015-06-28,Broughton Archipelago,3_3,Swanson Island,50.60255,-126.70201,Hakai Institute,Hak
 hakai_JE211N1,2015-06-28,Broughton Archipelago,3_3,Cracroft Point,50.54277,-126.64149,Hakai Institute,Hak
-hakai_JE212N1,2015-06-29,,,Naka Creek,50.47895,-126.41667,Hakai Institute,Hak
-hakai_JE213N1,2015-06-29,,,South Mouth,50.45942,-126.16916,Hakai Institute,Hak
+hakai_JE212N1,2015-06-29,BA/DI border,,Naka Creek,50.47895,-126.41667,Hakai Institute,Hak
+hakai_JE213N1,2015-06-29,BA/DI border,,South Mouth,50.45942,-126.16916,Hakai Institute,Hak
 hakai_JE216N1,2015-07-01,Broughton Archipelago,3_3,Hanson South,50.55809,-126.73246,Hakai Institute,Hak
 hakai_JE217N1,2015-07-01,Broughton Archipelago,3_3,Cracroft Point,50.54703,-126.67197,Hakai Institute,Hak
 hakai_JE218N1,2015-07-01,Broughton Archipelago,3_3,Bauza Cove,50.54329,-126.8169,Hakai Institute,Hak
-hakai_JE219N1,2015-07-02,,,Hanson North,,,Hakai Institute,Hak
-hakai_JE220N1,2015-07-02,,,Swanson Island,,,Hakai Institute,Hak
-hakai_JE221N1,2015-07-07,,,Swanson Island,,,Hakai Institute,Hak
-hakai_JE224N1,2015-07-07,,,Hanson South,,,Hakai Institute,Hak
+hakai_JE219N1,2015-07-02,BA/DI border,,Hanson North,,,Hakai Institute,Hak
+hakai_JE220N1,2015-07-02,BA/DI border,,Swanson Island,,,Hakai Institute,Hak
+hakai_JE221N1,2015-07-07,BA/DI border,,Swanson Island,,,Hakai Institute,Hak
+hakai_JE224N1,2015-07-07,BA/DI border,,Hanson South,,,Hakai Institute,Hak
 hakai_JE225N1,2015-07-07,Broughton Archipelago,3_3,Bauza Cove,50.5412,-126.77998,Hakai Institute,Hak
-hakai_JE227N1,2015-07-10,,,Hanson North,,,Hakai Institute,Hak
-hakai_JE228N1,2015-07-10,,,Cracroft Point,,,Hakai Institute,Hak
-hakai_JE229N1,2015-07-10,,,Hanson South,,,Hakai Institute,Hak
-hakai_JE229N2,2015-07-10,,,Hanson South,,,Hakai Institute,Hak
-hakai_JE231N1,2016-05-20,,,Stimpson Point,50.506881,-126.247378,Hakai Institute,Hak
-hakai_JE232N1,2016-05-20,,,South Mouth,50.458043,-126.152637,Hakai Institute,Hak
-hakai_JE233N1,2016-05-21,,,Blenkinsop Bay,50.473969,-126.247378,Hakai Institute,Hak
-hakai_JE234N1,2016-05-21,,,South Mouth,,,Hakai Institute,Hak
-hakai_JE234N2,2016-05-21,,,South Mouth,50.458043,-126.152637,Hakai Institute,Hak
-hakai_JE235N2,2016-05-21,,,Forward Bay,,,Hakai Institute,Hak
-hakai_JE235N1,2016-05-21,,,Forward Bay,,,Hakai Institute,Hak
-hakai_JE235N3,2016-05-21,,,Forward Bay,50.526493,-126.38718,Hakai Institute,Hak
-hakai_JE236N1,2016-05-21,,,Naka Creek,50.480359,-126.412275,Hakai Institute,Hak
+hakai_JE227N1,2015-07-10,BA/DI border,,Hanson North,,,Hakai Institute,Hak
+hakai_JE228N1,2015-07-10,BA/DI border,,Cracroft Point,,,Hakai Institute,Hak
+hakai_JE229N1,2015-07-10,BA/DI border,,Hanson South,,,Hakai Institute,Hak
+hakai_JE229N2,2015-07-10,BA/DI border,,Hanson South,,,Hakai Institute,Hak
+hakai_JE231N1,2016-05-20,BA/DI border,,Stimpson Point,50.506881,-126.247378,Hakai Institute,Hak
+hakai_JE232N1,2016-05-20,BA/DI border,,South Mouth,50.458043,-126.152637,Hakai Institute,Hak
+hakai_JE233N1,2016-05-21,BA/DI border,,Blenkinsop Bay,50.473969,-126.247378,Hakai Institute,Hak
+hakai_JE234N1,2016-05-21,BA/DI border,,South Mouth,,,Hakai Institute,Hak
+hakai_JE234N2,2016-05-21,BA/DI border,,South Mouth,50.458043,-126.152637,Hakai Institute,Hak
+hakai_JE235N2,2016-05-21,BA/DI border,,Forward Bay,,,Hakai Institute,Hak
+hakai_JE235N1,2016-05-21,BA/DI border,,Forward Bay,,,Hakai Institute,Hak
+hakai_JE235N3,2016-05-21,BA/DI border,,Forward Bay,50.526493,-126.38718,Hakai Institute,Hak
+hakai_JE236N1,2016-05-21,BA/DI border,,Naka Creek,50.480359,-126.412275,Hakai Institute,Hak
 hakai_JE237N1,2016-05-22,Broughton Archipelago,3_3,Bauza Cove,50.543296,-126.816816,Hakai Institute,Hak
 hakai_JE238N1,2016-05-22,Broughton Archipelago,3_3,Hanson South,50.558361,-126.732241,Hakai Institute,Hak
-hakai_JE239N1,2016-05-22,,,Cracroft Point,,,Hakai Institute,Hak
+hakai_JE239N1,2016-05-22,BA/DI border,,Cracroft Point,,,Hakai Institute,Hak
 hakai_JE239N2,2016-05-22,Broughton Archipelago,3_3,Cracroft Point,50.54692,-126.67193,Hakai Institute,Hak
 hakai_JE240N1,2016-05-22,Broughton Archipelago,3_3,Swanson Island,50.601718,-126.701857,Hakai Institute,Hak
-hakai_JE243N1,2016-05-26,,,Forward Bay,,,Hakai Institute,Hak
-hakai_JE243N2,2016-05-26,,,Forward Bay,50.522967,-126.377383,Hakai Institute,Hak
-hakai_JE244N1,2016-05-26,,,Stimpson Point,50.495266,-126.211667,Hakai Institute,Hak
-hakai_JE245N1,2016-05-27,,,Blenkinsop Bay,,,Hakai Institute,Hak
-hakai_JE245N2,2016-05-27,,,Blenkinsop Bay,50.477037,-126.028592,Hakai Institute,Hak
-hakai_JE246N1,2016-05-27,,,South Mouth,50.4559,-126.1191,Hakai Institute,Hak
+hakai_JE243N1,2016-05-26,BA/DI border,,Forward Bay,,,Hakai Institute,Hak
+hakai_JE243N2,2016-05-26,BA/DI border,,Forward Bay,50.522967,-126.377383,Hakai Institute,Hak
+hakai_JE244N1,2016-05-26,BA/DI border,,Stimpson Point,50.495266,-126.211667,Hakai Institute,Hak
+hakai_JE245N1,2016-05-27,BA/DI border,,Blenkinsop Bay,,,Hakai Institute,Hak
+hakai_JE245N2,2016-05-27,BA/DI border,,Blenkinsop Bay,50.477037,-126.028592,Hakai Institute,Hak
+hakai_JE246N1,2016-05-27,BA/DI border,,South Mouth,50.4559,-126.1191,Hakai Institute,Hak
 hakai_JE248N1,2016-05-27,Broughton Archipelago,3_3,Bauza Cove,50.543432,-126.8134,Hakai Institute,Hak
 hakai_JE249N1,2016-05-27,Broughton Archipelago,3_3,Hanson North,50.576696,-126.721158,Hakai Institute,Hak
-hakai_JE250N1,2016-05-28,,,Swanson Island,,,Hakai Institute,Hak
+hakai_JE250N1,2016-05-28,BA/DI border,,Swanson Island,,,Hakai Institute,Hak
 hakai_JE250N2,2016-05-28,Broughton Archipelago,3_3,Swanson Island,50.60125,-126.704457,Hakai Institute,Hak
 hakai_JE251N1,2016-05-28,Broughton Archipelago,3_3,Cracroft Point,50.545897,-126.668909,Hakai Institute,Hak
 hakai_JE252N1,2016-06-01,Broughton Archipelago,3_3,Swanson Island,50.60125,-126.704457,Hakai Institute,Hak
 hakai_JE253N1,2016-06-01,Broughton Archipelago,3_3,Hanson North,50.576696,-126.721158,Hakai Institute,Hak
-hakai_JE254N1,2016-06-02,,,Hanson South,50.477038,-126.028566,Hakai Institute,Hak
-hakai_JE255N1,2016-06-02,,,Bauza Cove,,,Hakai Institute,Hak
+hakai_JE254N1,2016-06-02,BA/DI border,,Hanson South,50.477038,-126.028566,Hakai Institute,Hak
+hakai_JE255N1,2016-06-02,BA/DI border,,Bauza Cove,,,Hakai Institute,Hak
 hakai_JE255N2,2016-06-02,Broughton Archipelago,3_3,Bauza Cove,50.543432,-126.8134,Hakai Institute,Hak
 hakai_JE256N1,2016-06-02,Broughton Archipelago,3_3,Naka Creek,50.540979,-126.78085,Hakai Institute,Hak
-hakai_JE257N1,2016-06-03,,,Stimpson Point,50.507301,-126.24325,Hakai Institute,Hak
-hakai_JE258N1,2016-06-03,,,South Mouth,50.459012,-126.1695,Hakai Institute,Hak
-hakai_JE259N2,2016-06-04,,,Blenkinsop Bay,,,Hakai Institute,Hak
-hakai_JE259N1,2016-06-04,,,Blenkinsop Bay,,,Hakai Institute,Hak
-hakai_JE259N3,2016-06-04,,,Blenkinsop Bay,50.458983,-126.169594,Hakai Institute,Hak
-hakai_JE260N1,2016-06-04,,,Forward Bay,50.525287,-126.390347,Hakai Institute,Hak
+hakai_JE257N1,2016-06-03,BA/DI border,,Stimpson Point,50.507301,-126.24325,Hakai Institute,Hak
+hakai_JE258N1,2016-06-03,BA/DI border,,South Mouth,50.459012,-126.1695,Hakai Institute,Hak
+hakai_JE259N2,2016-06-04,BA/DI border,,Blenkinsop Bay,,,Hakai Institute,Hak
+hakai_JE259N1,2016-06-04,BA/DI border,,Blenkinsop Bay,,,Hakai Institute,Hak
+hakai_JE259N3,2016-06-04,BA/DI border,,Blenkinsop Bay,50.458983,-126.169594,Hakai Institute,Hak
+hakai_JE260N1,2016-06-04,BA/DI border,,Forward Bay,50.525287,-126.390347,Hakai Institute,Hak
 hakai_JE261N1,2016-06-04,Broughton Archipelago,3_3,Cracroft Point,50.543029,-126.632233,Hakai Institute,Hak
 hakai_JE262N1,2016-06-09,Broughton Archipelago,3_3,Bauza Cove,50.544941,-126.816489,Hakai Institute,Hak
 hakai_JE263N1,2016-06-09,Broughton Archipelago,3_3,Hanson South,50.55543,-126.724521,Hakai Institute,Hak
 hakai_JE264N1,2016-06-09,Broughton Archipelago,3_3,Swanson Island,50.602327,-126.701507,Hakai Institute,Hak
 hakai_JE265N1,2016-06-10,Broughton Archipelago,3_3,Hanson North,50.5771,-126.721684,Hakai Institute,Hak
 hakai_JE266N1,2016-06-10,Broughton Archipelago,3_3,Cracroft Point,50.547475,-126.676942,Hakai Institute,Hak
-hakai_JE267N1,2016-06-10,,,Forward Bay,50.51821,-126.406079,Hakai Institute,Hak
-hakai_JE268N1,2016-06-10,,,Naka Creek,50.480214,-126.4142,Hakai Institute,Hak
-hakai_JE269N1,2016-06-11,,,Blenkinsop Bay,50.476173,-126.029443,Hakai Institute,Hak
-hakai_JE270N1,2016-06-11,,,South Mouth,50.456683,-126.153895,Hakai Institute,Hak
-hakai_JE271N1,2016-06-11,,,Stimpson Point,50.500269,-126.209365,Hakai Institute,Hak
-hakai_JE272N1,2016-06-17,,,Swanson Island,,,Hakai Institute,Hak
+hakai_JE267N1,2016-06-10,BA/DI border,,Forward Bay,50.51821,-126.406079,Hakai Institute,Hak
+hakai_JE268N1,2016-06-10,BA/DI border,,Naka Creek,50.480214,-126.4142,Hakai Institute,Hak
+hakai_JE269N1,2016-06-11,BA/DI border,,Blenkinsop Bay,50.476173,-126.029443,Hakai Institute,Hak
+hakai_JE270N1,2016-06-11,BA/DI border,,South Mouth,50.456683,-126.153895,Hakai Institute,Hak
+hakai_JE271N1,2016-06-11,BA/DI border,,Stimpson Point,50.500269,-126.209365,Hakai Institute,Hak
+hakai_JE272N1,2016-06-17,BA/DI border,,Swanson Island,,,Hakai Institute,Hak
 hakai_JE272N2,2016-06-17,Broughton Archipelago,3_3,Swanson Island,50.602051,-126.704553,Hakai Institute,Hak
 hakai_JE273N1,2016-06-17,Broughton Archipelago,3_3,Hanson North,50.579213,-126.71432,Hakai Institute,Hak
-hakai_JE274N1,2016-06-18,,,Bauza Cove,,,Hakai Institute,Hak
+hakai_JE274N1,2016-06-18,BA/DI border,,Bauza Cove,,,Hakai Institute,Hak
 hakai_JE274N2,2016-06-18,Broughton Archipelago,3_3,Bauza Cove,50.579393,-126.714162,Hakai Institute,Hak
 hakai_JE276N1,2016-06-18,Broughton Archipelago,3_3,Cracroft Point,50.546326,-126.669166,Hakai Institute,Hak
-hakai_JE278N3,2016-06-19,,,Naka Creek,50.483183,-126.403858,Hakai Institute,Hak
-hakai_JE278N2,2016-06-19,,,Naka Creek,50.483183,-126.403858,Hakai Institute,Hak
-hakai_JE278N1,2016-06-19,,,Naka Creek,50.483183,-126.403858,Hakai Institute,Hak
-hakai_JE281N1,2016-06-19,,,Stimpson Point,50.506302,-126.24142,Hakai Institute,Hak
-hakai_JE282N1,2016-06-19,,,Blenkinsop Bay,50.506323,-126.241304,Hakai Institute,Hak
-hakai_JE283N1,2016-06-20,,,South Mouth,50.455728,-126.116461,Hakai Institute,Hak
+hakai_JE278N3,2016-06-19,BA/DI border,,Naka Creek,50.483183,-126.403858,Hakai Institute,Hak
+hakai_JE278N2,2016-06-19,BA/DI border,,Naka Creek,50.483183,-126.403858,Hakai Institute,Hak
+hakai_JE278N1,2016-06-19,BA/DI border,,Naka Creek,50.483183,-126.403858,Hakai Institute,Hak
+hakai_JE281N1,2016-06-19,BA/DI border,,Stimpson Point,50.506302,-126.24142,Hakai Institute,Hak
+hakai_JE282N1,2016-06-19,BA/DI border,,Blenkinsop Bay,50.506323,-126.241304,Hakai Institute,Hak
+hakai_JE283N1,2016-06-20,BA/DI border,,South Mouth,50.455728,-126.116461,Hakai Institute,Hak
 hakai_JE284N1,2016-06-23,Broughton Archipelago,3_3,Bauza Cove,50.54401,-126.81461,Hakai Institute,Hak
 hakai_JE285N1,2016-06-23,Broughton Archipelago,3_3,Hanson South,50.55803,-126.73463,Hakai Institute,Hak
 hakai_JE286N1,2016-06-23,Broughton Archipelago,3_3,Cracroft Point,50.55803,-126.73463,Hakai Institute,Hak
 hakai_JE288N1,2016-06-24,Broughton Archipelago,3_3,Swanson Island,50.6017,-126.70318,Hakai Institute,Hak
-hakai_JE290N1,2016-06-24,,,Naka Creek,,,Hakai Institute,Hak
-hakai_JE290N2,2016-06-24,,,Naka Creek,50.4806,-126.40961,Hakai Institute,Hak
-hakai_JE291N1,2016-06-25,,,Blenkinsop Bay,50.47508,-126.03392,Hakai Institute,Hak
-hakai_JE292N1,2016-06-25,,,South Mouth,50.45733,-126.16553,Hakai Institute,Hak
-hakai_JE293N1,2016-06-25,,,Stimpson Point,,,Hakai Institute,Hak
-hakai_JE293N2,2016-06-25,,,Stimpson Point,50.49874,-126.21257,Hakai Institute,Hak
-hakai_JE294N1,2016-07-04,,,Swanson Island,,,Hakai Institute,Hak
+hakai_JE290N1,2016-06-24,BA/DI border,,Naka Creek,,,Hakai Institute,Hak
+hakai_JE290N2,2016-06-24,BA/DI border,,Naka Creek,50.4806,-126.40961,Hakai Institute,Hak
+hakai_JE291N1,2016-06-25,BA/DI border,,Blenkinsop Bay,50.47508,-126.03392,Hakai Institute,Hak
+hakai_JE292N1,2016-06-25,BA/DI border,,South Mouth,50.45733,-126.16553,Hakai Institute,Hak
+hakai_JE293N1,2016-06-25,BA/DI border,,Stimpson Point,,,Hakai Institute,Hak
+hakai_JE293N2,2016-06-25,BA/DI border,,Stimpson Point,50.49874,-126.21257,Hakai Institute,Hak
+hakai_JE294N1,2016-07-04,BA/DI border,,Swanson Island,,,Hakai Institute,Hak
 hakai_JE294N2,2016-07-04,Broughton Archipelago,3_3,Swanson Island,50.601529,-126.703784,Hakai Institute,Hak
 hakai_JE295N1,2016-07-04,Broughton Archipelago,3_3,Hanson North,50.580247,-126.721745,Hakai Institute,Hak
 hakai_JE298N1,2016-07-04,Broughton Archipelago,3_3,Bauza Cove,50.543818,-126.794456,Hakai Institute,Hak
-hakai_JE300N1,2016-07-05,,,Naka Creek,50.47779,-126.429726,Hakai Institute,Hak
-hakai_JE302N1,2016-07-05,,,South Mouth,50.456886,-126.162647,Hakai Institute,Hak
-hakai_JE303N1,2016-07-06,,,Blenkinsop Bay,50.457049,-126.162651,Hakai Institute,Hak
+hakai_JE300N1,2016-07-05,BA/DI border,,Naka Creek,50.47779,-126.429726,Hakai Institute,Hak
+hakai_JE302N1,2016-07-05,BA/DI border,,South Mouth,50.456886,-126.162647,Hakai Institute,Hak
+hakai_JE303N1,2016-07-06,BA/DI border,,Blenkinsop Bay,50.457049,-126.162651,Hakai Institute,Hak
 hakai_JE304N2,2017-06-06,Broughton Archipelago,3_3,Cracroft Point,50.54522,-126.65949,Hakai Institute,Hak
 hakai_JE305N1,2017-06-06,Broughton Archipelago,3_3,Swanson Island,50.6022,-126.70567,Hakai Institute,Hak
 hakai_JE306N2,2017-06-13,Broughton Archipelago,3_3,Bauza Cove,50.54393,-126.8131,Hakai Institute,Hak
@@ -16599,10 +16599,10 @@ hakai_JE309N2,2017-06-21,Broughton Archipelago,3_3,Bauza Cove,50.54628,-126.8147
 hakai_JE309N1,2017-06-21,Broughton Archipelago,3_3,Bauza Cove,50.54487,-126.81252,Hakai Institute,Hak
 hakai_JE310N2,2017-06-27,Broughton Archipelago,3_3,Bauza Cove,50.54582,-126.81618,Hakai Institute,Hak
 hakai_JE310N1,2017-06-27,Broughton Archipelago,3_3,Bauza Cove,50.54574,-126.81679,Hakai Institute,Hak
-hakai_JE311N4,2017-06-28,,,Swanson Island,,,Hakai Institute,Hak
-hakai_JE311N3,2017-06-28,,,Swanson Island,,,Hakai Institute,Hak
-hakai_JE311N2,2017-06-28,,,Swanson Island,,,Hakai Institute,Hak
-hakai_JE311N1,2017-06-28,,,Swanson Island,,,Hakai Institute,Hak
+hakai_JE311N4,2017-06-28,BA/DI border,,Swanson Island,,,Hakai Institute,Hak
+hakai_JE311N3,2017-06-28,BA/DI border,,Swanson Island,,,Hakai Institute,Hak
+hakai_JE311N2,2017-06-28,BA/DI border,,Swanson Island,,,Hakai Institute,Hak
+hakai_JE311N1,2017-06-28,BA/DI border,,Swanson Island,,,Hakai Institute,Hak
 hakai_JE311N5,2017-06-28,Broughton Archipelago,3_3,Swanson Island,50.60278,-126.70284,Hakai Institute,Hak
 hakai_JE314N2,2017-07-06,Broughton Archipelago,3_3,Bauza Cove,50.54454,-126.81227,Hakai Institute,Hak
 hakai_JE314N1,2017-07-06,Broughton Archipelago,3_3,Bauza Cove,50.54372,-126.81769,Hakai Institute,Hak
@@ -16621,7 +16621,7 @@ hakai_DE516N1,2018-05-17,Discovery Islands,3_2,Calm Channel,50.316983,-125.04996
 hakai_JE401N1,2018-05-21,Broughton Archipelago,3_3,Bauza Cove,50.5429,-126.81615,Hakai Institute,Hak
 hakai_JE402N1,2018-05-21,Broughton Archipelago,3_3,Blinkhorn Bay,50.53927,-126.78078,Hakai Institute,Hak
 hakai_DE517N2,2018-05-22,Discovery Islands,3_2,Okisollo Channel,50.31006,-125.317963,Hakai Institute,Hak
-hakai_DE517N1,2018-05-22,,,Okisollo Channel,,,Hakai Institute,Hak
+hakai_DE517N1,2018-05-22,BA/DI border,,Okisollo Channel,,,Hakai Institute,Hak
 hakai_DE531N1,2018-05-23,Discovery Islands,3_2,Granite Point,50.271333,-125.368,Hakai Institute,Hak
 hakai_DE512N1,2018-05-24,Discovery Islands,3_2,Calm Channel,50.316807,-125.050581,Hakai Institute,Hak
 hakai_DE513N2,2018-05-28,Discovery Islands,3_2,Okisollo Channel,50.30705,-125.332333,Hakai Institute,Hak
